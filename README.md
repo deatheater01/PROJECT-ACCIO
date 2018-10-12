@@ -11,7 +11,7 @@ The network can help users connect to other users nearby instantly and help them
 The app also has a built in survival guide from the WHO
 The survivors can call and chat via the network which will help them come together
 App will be as light as possible to reduce battery consumption while still providing necessary functionality
-The rescue teams will be equipped with cost-efficient, minimal functionality, long range antennas designed to detect these mesh networks and help pinpoint the survivor’s location(in the disaster area) using the network nodes and radio waves from the network.
+The rescue teams will be equipped with cost-efficient, minimal functionality, long range antennas designed to detect these mesh networks and help pinpoint the survivor’s location(in the disaster area) and visualise using the network nodes and radio waves from the network.
 This device can be modified to fit into a variety of machines and vehicles including Drones which will help locate survivors in unreachable locations.
 We also plan to integrate SDR functionality into the devices for places where smartphones aren’t prevalent.
 Once we have the locations of survivors and receive the topographical data of the region, we combine this with aerial photographs to map locations where Aid packages are needed the most. We then use all available data to calculate locations where aid packages need to be dropped off to maximize the effectives of the packages to the survivors while making sure the package lands unharmed. We calculate the drop points using a multitude of factors including Wind speed and the unique topography of the region.	
