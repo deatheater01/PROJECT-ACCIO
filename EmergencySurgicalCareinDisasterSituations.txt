@@ -1,0 +1,2586 @@
+        DISASTER MANAGEMENT GUIDELINES
+               EMERGENCY SURGICAL CARE IN DISASTER SITUATIONS
+
+These guidelines have been extracted from the WHO manual Surgical Care at the District Hospital
+(SCDH), which is a part of the WHO Integrated Management on Emergency and Essential Surgical Care
+(IMEESC) tool kit.
+
+The following materials relevant to country's disaster situation should be taken from the IMEESC tool:
+• Best practice protocols for Clinical Procedures Safety (disaster planning, trauma team responsibilities,
+   hand hygiene, operating room, and anaesthesia check list, postoperative management, application of
+   cast and splints, cardiac life support, airway management),
+• Needs assessment
+• Essential Emergency Equipment List
+• Details of anaesthesia, gunshot and landmine injuries in chapters 13, 14, 17 and 18, in SCDH
+
+List of Contents
+
+1.    Antibiotic Prophylaxis
+2.    Antibiotic Treatment
+3.    Tetanus Prophylaxis
+4.    Failure of Normal Methods of Sterilization
+5.    Cleaning, Disinfection and Sterilization
+6.    Waste Disposal
+7.    Resuscitation
+8.    Unconsciousness
+9.    Wound Management
+10.   Hand Lacerations
+11.   Specific Lacerations and Wounds
+12.   Amputations
+13.   Drains
+14.   Insertion of Chest Drain and Underwater Seal Drainage
+15.   Cellulites and Abscess
+16.   Open Fractures
+17.   Upper Extremity injuries
+18.   Lower Extremity injuries
+19.   Spine injuries
+20.   Fractures in children
+21.   Compartment syndrome
+22.   Fat embolism syndrome
+23.   Female genital injury
+24.   Ketamine anesthesia
+25.   Postoperative care
+26.   Essential Emergency Equipment Generic List
+27.   Anaesthetic Infrastructure/Supplies
+WHO/EHT/CPR 2005, formatted 2009                                Best practice guidelines in disaster situations   1
+                                       Antibiotic Prophylaxis
+
+•   Antibiotic prophylaxis is different from antibiotic treatment.
+•   Prophylaxis is intended to prevent infection or to decrease the potential for infection.          It is not
+    intended to prevent infection in situations of gross contamination.
+•   Consider using prophylaxis:
+            - For traumatic wounds which may not require surgical intervention
+            - When surgical intervention will be delayed for more than 6 hours.
+
+Use therapeutic doses if infection is present or likely:
+
+•    Administer antibiotics prior to surgery, within the 2 hours before the skin is cut, so that tissue levels
+     are adequate during the surgery
+• More than one dose may be given if the procedure is long (>6 hours) or if there is significant blood
+     loss.
+• The use of topical antibiotics and washing wounds with antibiotic solutions are not recommended.
+• Use antibiotic prophylaxis in cases where there are:
+1. Biomechanical considerations that increase the risk of infection:
+             - Implantation of a foreign body
+             - Known valvular heart disease
+             - Indwelling prosthesis
+ 2. Medical considerations that compromise the healing capacity or increase the         infection risk:
+             - Diabetes
+             - Peripheral vascular disease
+             - Possibility of gangrene or tetanus
+             - Immunocompromised state
+3. High-risk wounds or situations:
+             - Penetrating wounds
+             - Abdominal trauma
+             - Compound fractures
+             - Wounds with devitalized tissue
+             - Lacerations greater than 5 cm or stellate lacerations
+             - Contaminated wounds
+             - High risk anatomical sites such as hand or foot
+             - Biliary and bowel surgery.
+• Use intravenous (IV) antibiotics for prophylaxis in clean surgical situations to reduce the risk of
+     postoperative infection, since skin and instruments are never completely sterile.
+• For the prophylaxis of endocarditis in patients with known valvular heart disease:
+             - Oral and upper respiratory procedures: give amoxicillin 3 g orally, 1 hour before surgery
+               and 1.5 g, 6 hours after first dose
+             - Gastrointestinal and genitourinary procedures: give ampicillin 3 g, 1 hour before surgery
+    and gentamicin 1.5 mg/kg intramuscularly (IM) or IV (maximum dose 80 mg), 30 minutes before
+    surgery.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                    Best practice guidelines in disaster situations   2
+                                     Antibiotic Treatment
+
+• When a wound is extensive and more than 6 hours old, you should consider it to be colonized with
+  bacteria, and use therapeutic doses and regimens.
+• Penicillin and metronidazole provide good coverage and are widely available.
+• Monitor wound healing and infection regularly.
+• Make use of culture and sensitivity findings if they are available.
+• Continue therapeutic doses of antibiotics for 5–7 days.
+
+                                   Tetanus Prophylaxis
+Active immunization with tetanus toxoid (TT) prevents tetanus and is given together with diphtheria
+vaccine (TD).
+Women should be immunized during pregnancy to prevent neonatal tetanus. Childhood immunization
+regimes include diphtheria, pertussis and tetanus.
+• Individuals who have not received three doses of tetanus toxoid are not considered immune and
+    require immunization.
+• A non-immune person with a minor wound can be immunized if the wound is tetanus prone; give both
+    TT or TD and tetanus immune globulin (TIG).
+• A non-immunized person will require repeat immunization at six weeks and at six months to complete
+    the immunization series.
+• Examples of tetanus prone wounds include:
+            - Wounds contaminated with dirt or faeces
+            - Puncture wounds
+            - Burns
+            - Frostbite
+            - High velocity missile injuries.
+• Give prophylactic antibiotics in cases of wound contamination
+• Immunize the non-immune patient against tetanus with tetanus toxoid and give immune
+    globulin if the wound is tetanus prone.
+
+    Tetanus prophylaxis regime
+                                        Clean wounds       Moderate risk        High risk
+Immunized and booster within 5 years             Nil          Nil                 Nil
+Immunized and 5–10 years                         Nil        TT or TD            TT or TD
+since booster
+Immunized and >10 years                      TT or TD       TT or TD             TT or TD
+since booster
+Incomplete immunization                       TT or TD      TT or TD             TT or TD
+or unknown                                                  and TIG              and TIG
+
+
+Do not give TIG if the person is known to have had two primary doses of TT or T
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                              Best practice guidelines in disaster situations   3
+                      Failure of Normal Methods of Sterilization
+Failure of an autoclave or a power supply may suddenly interrupt normal sterilization procedures.
+If an extra set of sterile equipment and drapes are not available, the following “antiseptic technique” will
+allow some surgery to continue.
+    1. Immerse towels and drapes for 1 hour in a reliable antiseptic such as aqueous chlorhexidine, wring
+        them out and lay them moist on the skin of the patient.
+    2. Treat gauze packs and swabs similarly, but rinse them in diluted (1: 1000) chlorhexidine solution
+        before using them in the wound. From time to time during the operation, rinse gauze in use in this
+        solution.
+    3. Immerse instruments, needles, and natural suture materials in strong antiseptic for 1 hour and rinse
+        them in weak antiseptic just before use
+
+                         Cleaning, Disinfection and Sterilization
+Disinfection
+
+   •   Disinfectant solutions are used to inactivate any infectious agents that may be present in blood or
+       other body fluids.
+   •   They must always be available for cleaning working surfaces, equipment that cannot be autoclaved
+       and non-disposable items and for dealing with any spillages involving pathological specimens or
+       other known infectious material.
+   •   Needles and instruments should routinely be soaked in a chemical disinfectant for 30 minutes
+       before cleaning.
+   •   Disinfection decreases the viral and bacterial burden of an instrument, but does not clean debris
+       from the instrument or confer sterility.
+   •   The purpose of disinfection is to reduce the risk to those who have to handle the instruments
+       during further cleaning.
+   •   Reusable needles must always be used with great care. After use, they should be placed in a
+       special container of disinfectant before being cleaned and sterilized.
+   •   Thick gloves should be worn when needles and sharp instruments are being cleaned.
+   •   There are many disinfectant solutions, with varying degrees of effectiveness. In most countries, the
+       most widely available disinfectant is sodium hypochlorite solution (commonly known as bleach or
+       chloros), which is a particularly effective antiviral disinfectant solution.
+   •   To ensure effective disinfection, follow the manufacturer’s instructions or any other specific
+       guidelines that have been given and dilute the concentrated solution to the correct working strength.
+   •   It is important to use all disinfectant solutions within their expiry date as some solutions, such as
+       hypochlorite, lose their activity very quickly.
+   •   All disinfectants have what is known as a “contact time”, which means that they must be left in
+       contact with an infectious agent for a certain period of time to ensure that it is completely
+       inactivated. However, some disinfectants are themselves inactivated by the presence of organic
+       material and so higher concentrations of disinfectant and longer contact times must be used in
+       certain situations, such as a large spill of infected blood.
+   •   Linen soiled with blood should be handled with gloves and should be collected and transported in
+       leak-proof bags.
+   •   Wash the linen first in cool water and then disinfect with a dilute chlorine solution. Then wash it
+       with detergent for 25 minutes at a temperature of at least 71°C.
+
+
+WHO/EHT/CPR 2005, formatted 2009                                 Best practice guidelines in disaster situations   4
+Sterilization
+
+The methods of sterilization in common use are:
+    1. Autoclaving or steam sterilization
+    2. Exposure to dry heat
+    3. Treatment with chemical antiseptics.
+1. Autoclaving
+    • Autoclaving should be the main form of sterilization at the district hospital.
+    • Before sterilizing medical items, they must first be disinfected and vigorously cleaned to remove
+       all organic material. Proper disinfection decreases the risk for the person who will be cleaning the
+       instruments.
+    • Sterilization of all surgical instruments and supplies is crucial in preventing HIV transmission. All
+       viruses, including HIV, are inactivated by steam sterilization (autoclaving) for 20 minutes at
+       121°C–132°C or for 30 minutes if the instruments are in wrapped packs.
+    • Appropriate indicators must be used each time to show that sterilization has been accomplished. At
+       the end of the procedure, the outsides of the packs of instruments should not have wet spots, which
+       may indicate that sterilization has not occurred.
+2. Dry heat
+    • If items cannot be autoclaved, they can be sterilized by dry heat for1–2 hours at 170°C.
+       Instruments must be clean and free of grease or oil.
+    • However, sterilizing by hot air is a poor alternative to autoclaving since it is suitable only for metal
+       instruments and a few natural suture materials.
+    • Boiling instruments is now regarded as an unreliable means of sterilization and is not
+       recommended as a routine in hospital practice.
+3. Antiseptics
+    • In general, instruments are no longer stored in liquid antiseptic. However, sharp instruments, other
+       delicate equipment and certain catheters and tubes can be sterilized by exposure to formaldehyde,
+       glutaral (glutaraldehyde) or chlorhexidine.
+    • If you are using formaldehyde, carefully clean the equipment and then expose it to vapour from
+       paraformaldehyde tablets in a closed container for 48 hours. Ensure that this process is carried out
+       correctly.
+    • Glutaral is a disinfectant that is extremely effective against bacteria, fungi and a wide range of
+       viruses. Always follow the manufacturer’s instructions for use.
+
+                          Waste disposal in clinical procedures at
+                           resource limited health care facility
+It is essential for the hospital to have protocols for dealing with biological waste and contaminated
+materials. All staff must be familiar with them and follow them.
+
+•   All biological waste must be carefully stored and disposed of safely.
+
+•   Contaminated materials such as blood bags, dirty dressings and disposable needles are potentially
+    hazardous and must be treated accordingly.
+
+•   If biological waste and contaminated materials are not disposed of properly, staff and members of the
+    community could be exposed to infectious material and become infected.
+
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   5
+•   The disposal of bio hazardous materials is time consuming and expensive, so it is important to
+    separate non-contaminated material such as waste paper, packaging and non-sterile but not
+    biologically contaminated materials.
+•   Only 15% to 20% of medical waste is considered infectious.
+
+•   Make separate disposal containers available where waste is created so that staff can sort the waste as
+    it is being discarded. A three colour coding system with black for non infectious waste, red or
+    yellow for infectious and yellow for sharps is recommended.
+
+•   Organize things in a way to discourage the need for people to be in contact with contaminated waste.
+
+•   All infected waste should then be treated of by steam sterilization or high temperature incineration
+    equipped with emission control devices. Whenever feasible plastic material such as syringes or blood
+    bags should not be incinerated.
+
+•   Burying waste is the only option in some areas where not controlled landfill exists. If this is the case,
+    you should do as much as possible to protect the burying site to prevent access and to avoid
+    environmental pollution, especially for underground water sources.
+
+•   Prior to burying for safety infected waste can be disinfected by soaking in a 0.5% hypochlorite
+    solution for at least 30 minutes.
+•   Do not mix waste chemicals, unless you are certain that a chemical reaction will not take place. This
+    is essential to prevent any unwanted or dangerous reactions between the chemicals, which could
+    endanger laboratory staff. Always follow local guidelines on the disposal of waste chemicals to ensure
+    that chemical contamination of the surrounding land or water supply does not occur.
+
+•   Provide a safe system for getting rid of disposable items such as scalpel blades or needles. The risk
+    of injury with sharp objects increases with the distance they are carried and the amount they are
+    manipulated.
+
+•   A container for the safe disposal of sharp objects should be:
+       o Well labelled
+       o Puncture proof
+       o Watertight
+       o Break resistant (a glass container could break and provide a serious hazard to the person
+           cleaning up the mess)
+       o Opening large enough to pass needles and scalpel blades, but never large enough for someone
+           to reach into
+       o Secured to a surface, such as a wall or counter, to ensure stability during use
+       o Removable for disposal.
+       o These containers must then be disposed of safely. (They can be steam sterilized, then shredded
+           and disposed of to a controlled land fill with municipal waste, encapsulated in a pit or any
+           other options according to national protocols approved by the public health department and
+           ministry of environment.)
+
+•   Health-care workers and waste handlers should wear protective equipment such as gloves, apron,
+    mask and be immunized against HBV.
+
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   6
+   •   A budget line for a safe waste management should be systematically included when planning a
+       medical activity.
+   References
+   - WHO Surgical Care at the District Hospital Manual 2003
+   - WHO Management of Solid Health-Care Waste at Primary Health-Care Centres : a decision-making guide 2005
+
+
+                                              Resuscitation
+Haemorrhage
+   •   External bleeding can be controlled, usually with pressure.
+   •   Bleeding into body cavities may be apparent only later; for example, when the circulation has been
+       restored and the rise in blood pressure causes more bleeding and a second fall in blood pressure.
+
+
+Shock
+Shock is a pathological, life threatening condition in which the oxygen supply to the tissues of the body fails.
+The cause is usually one of the following:
+   • Hypovolaemia (bleeding)
+             - the circulating volume is reduced by loss of blood or other fluid (e.g. burn transudate).
+             - Rapid fluid replacement, starting with normal saline or Hartmann’s solution, should restore
+            the circulation towards normal.
+   • Sepsis
+            - the circulating volume may be normal, but blood pressure is low and tissue circulation is
+                inadequate.
+            - Support the circulation with volume infusion, but it may not respond as in hypovolaemic
+                shock.
+   • Acute anaphylaxis: from allergy or drug reaction
+            - give epinephrine and intravenous fluids.
+   • Neurogenic (after spinal trauma)
+            - the heart rate is often low and atropine and fluids will be helpful.
+   • Heart failure (left ventricular failure).
+
+Recognize shock by:
+   •   Tachycardia (may be the only sign in a child)
+   •   Thready pulse
+   •   Narrow pulse pressure: e.g.110/70 becomes 95/75
+   •   Cold hands and feet
+   •   Sweating, anxious patient
+   •   Breathlessness and hyperventilation
+   •   Confusion leading to unconsciousness
+
+                                           Unconsciousness
+
+Unconsciousness may have many causes including:
+      -      Head injury
+      -      Hypoglycemia
+      -      Ketoacidosis
+      -      Cerebrovascular event
+
+WHO/EHT/CPR 2005, formatted 2009                                    Best practice guidelines in disaster situations   7
+       -       Hypoxia
+       -       Hypotension
+       -       Hypertension and eclampsia
+       -       H I V infection
+       -       Drug intoxication.
+•   Assess the response to stimuli, look at the pupils initially and re-examine them later to follow
+    progress. Look for unequal pupils or other localizing signs that may show intracranial haematoma
+    developing.
+•   In many instances, you may attend to and stabilize other systems first and await the return of
+    consciousness as cerebral perfusion and oxygenation improves.
+•   After cardiac arrest, a patient who initially had fixed dilated pupils may show smaller pupils after
+    effective CPR. This indicates that a favorable outcome may be possible.
+•   The supine unconscious patient with a full stomach is at grave risk of regurgitation and aspiration due
+    to the unprotected airway. However, i f a comatose patient has a clear airway and vital signs are
+    normal:
+    - Avoid intubation as this will involve drug administration and complicate the subsequent diagnosis
+    - Nurse the patient in the recovery position
+    - Monitor the airway and await progress and diagnosis (Figure 13.4).
+
+•   During CPR, ask yourself: is the patient responding? If not, why not?
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                 Best practice guidelines in disaster situations   8
+                                      Wound Management
+
+Surgical wounds can be classified as follows:
+• Clean
+• Clean contaminated: a wound involving normal but colonized tissue
+• Contaminated: a wound containing foreign or infected material
+• Infected: a wound with pus present.
+• Close clean wounds immediately to allow healing by primary intention
+• Do not close contaminated and infected wounds, but leave them open to heal by secondary intention
+• In treating clean contaminated wounds and clean wounds that are more than six hours old, manage
+   with surgical toilet, leave open and then close 48 hours later. This is delayed primary closure.
+
+
+Factors that affect wound healing and the potential for infection
+•   Patient:
+        - Age
+        - Underlying illnesses or disease: consider anemia, diabetes or immunocompromised
+        - Effect of the injury on healing (e.g. devascularization)
+•   Wound:
+        - Organ or tissue injured
+        - Extent of injury
+        - Nature of injury (for example, a laceration will be a less complicated wound than a crush
+            injury)
+        - Contamination or infection
+        - Time between injury and treatment (sooner is better)
+•   Local factors:
+        - Haemostasis and debridement
+        - Timing of closure
+
+Wound: Primary repair
+•   Primary closure requires that clean tissue is approximated without tension.
+•   Injudicious closure of a contaminated wound will promote infection and delay healing.
+•   Essential suturing techniques include:
+•   Interrupted simple
+•   Continuous simple
+•   Vertical mattress
+•   Horizontal mattress
+•   Intradermal.
+•   Staples are an expensive, but rapid, alternative to sutures for skin closure.
+•   The aim with all techniques is to approximate the wound edges without gaps or tension.
+•   The size of the suture “bite” and the interval between bites should be equal in length and proportional
+    to the thickness of tissue being approximated.
+•   As suture is a foreign body, use the minimal size and amount of suture material required to close the
+    wound
+•   Leave skin sutures in place for 5 days; leave the sutures in longer if healing is expected to be slow due
+    to the blood supply of a particular location or the patient’s condition
+
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   9
+•   If appearance is important and suture marks unacceptable, as in the face, remove sutures as early as 3
+    days. In this case, re-enforce the wound with skin tapes.
+•   Close deep wounds in layers, using absorbable sutures for the deep layers.
+•   Place a latex drain in deep oozing wounds to prevent haematoma formation.
+
+Wound: Delayed primary closure
+•   Irrigate clean contaminated wounds; then pack them open with damp saline gauze.
+•   Close the wounds with sutures at 2 days.
+•   These sutures can be placed at the time of wound irrigation or at the time of wound closure
+
+Wound: Secondary healing
+To promote healing by secondary intention, perform wound toilet and surgical
+debridement.
+1. Surgical wound toilet involves:
+    -   Cleaning the skin with antiseptics
+    -   Irrigation of wounds with saline
+    -   Surgical debridement of all dead tissue and foreign matter. Dead tissue
+        does not bleed when cut.
+2. Wound debridement involves:
+    -   Gentle handling of tissues minimizes bleeding.                              Figure 5.1
+    -   Control residual bleeding with compression, ligation or cautery.
+    -   Dead or devitalized muscle is dark in color, soft, easily damaged and does not contract when
+        pinched.
+    -   During debridement, excise only a very thin margin of skin from the wound edge (Figure 5.1).
+
+1. Systematically perform wound toilet and surgical debridement, initially to the superficial layers of
+    tissues and subsequently to the deeper layers (Figures 5.2, 5.3).
+2. After scrubbing the skin with
+    soap and irrigating the wound
+    with saline, prep the skin with
+    antiseptic.
+3. Do not use antiseptics within
+    the wound.
+4. Debride the wound
+    meticulously to remove any
+    loose foreign material such as
+    dirt, grass, wood, glass or         Figure 5.2                             Figure 5.3
+    clothing.
+5. With a scalpel or dissecting
+    scissors, remove all adherent foreign material along with a thin margin of underlying tissue and then
+    irrigate the wound again.
+6. Continue the cycle of surgical debridement and saline irrigation until the wound is completely clean.
+7. Leave the wound open after debridement to allow healing by secondary intention.
+8. Pack it lightly with damp saline gauze and cover the packed wound with a dry dressing.
+9. Change the packing and dressing daily or more often if the outer dressing becomes damp with blood
+    or other body fluids.
+10. Large defects will require closure with flaps or skin grafts but may be initially managed with saline
+    packing
+WHO/EHT/CPR 2005, formatted 2009                                 Best practice guidelines in disaster situations   10
+                                        Hand Lacerations
+
+•  Treat lacerations promptly with careful evaluation, debridement and lavage
+•  Close wounds only when clean, using suture, spontaneous healing or skin grafts
+•  After injury, elevate the hand to control swelling and begin motion early
+• Nail bed injuries require special treatment
+Evaluation
+- Treat open injuries of the hand promptly. Perform a local
+   examination to check circulation, sensation and motor function.
+- Gently examine the wound using aseptic technique to determine if
+   it is clean or contaminated. A contaminated wound contains foreign
+   material and crushed or dead tissue.
+Treatment
+1. Debride and lavage all wounds in the operating room or emergency
+   area. If a local anaesthetic is needed, use 1% lidocaine without
+   epinephrine.
+2. Administer tetanus toxoid and antibiotics. Obtain X-rays to check
+   underlying bones and joints.
+3. Stop bleeding by compression with sterile gauze. If necessary,
+   extend the wound, being careful not to cross skin creases in the palm or digits. Remove all foreign
+   material and devitalized tissue, but do not excise any skin unless it is dead.
+4. If the wound is clean, repair extensor tendons but not flexor tendons or nerves.
+5. Close a clean wound over a drain using interrupted sutures if there is no tension on the skin. If the
+   wound is contaminated, delay closure until after a second debridement. Wounds less than 1 cm square
+   will granulate spontaneously. Use skin grafts for larger wounds, which will not close without skin
+   tension.
+6. Cover the hand with sterile gauze and a compression dressing. (Figure18.35)
+7. Apply a plaster splint to hold the wrist in 20 degrees of extension, with the metacarpophalangeal joints
+   in 90 degrees of flexion and the interphalangeal joints in full extension. Keep the fingertips exposed
+   unless they are injured.
+8. To control oedema, elevate the limb for the first week, either by attachment to an overhead frame or
+   by the use of a triangular sling. (Figure18.36)
+9. Begin active exercises as soon as possible and inspect the wound in 2– 3 days to remove drains.
+
+Nail bed injuries
+•   Subungual haematoma causes severe pain resulting from a collection of
+    blood deep under the nail. This can be seen as a dark red to black collection
+    beneath the nail.
+•   To relieve pain, make one or two small holes in the nail with a hot safety
+    pin or the tip of sterile number 11 scalpel blade.
+•   I f not repaired, lacerations of the nail bed may result in lasting nail
+    deformity. Remove the nail and, after debridement and lavage, repair the
+    laceration using fine suture.
+•    I f possible, replace the nail over the sutured laceration until it heals and a
+    new nail has begun to grow.
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                     Best practice guidelines in disaster situations   11
+                              Specific Lacerations and Wounds
+
+•   Lacerations may be associated with neurovascular or other serious injury; a complete examination is
+    required to identify injuries that are not immediately obvious.
+•   Minor problems are important because mismanagement can lead to major detrimental consequences.
+
+Blood vessels, nerves and tendons
+
+•   Assess the function of tendons, nerves and blood vessels distal to the laceration.
+•   Ligate lacerated vessels whether or not they are bleeding, as the vessels which are not bleeding may do
+    so at a later time.
+•   Large damaged vessels may need to be divided between ligatures. Before dividing these larger vessels
+    or an end artery, test the effect on the distal circulation by temporary occlusion of the vessel.
+•   Loosely oppose the ends of divided nerves by inserting one or two sutures through the nerve sheath.
+    Similarly fix tendon ends to prevent retraction. These sutures should be long enough to assist in
+    tendon or nerve identification at a subsequent procedure.
+•   Formal repair of nerves and flexor tendons is not urgent and is best undertaken later by a qualified
+    surgeon.
+
+Facial Lacerations
+
+•   It is appropriate to manage most facial wounds in the outpatient department.
+•   Clean the skin with soap and water, while protecting the patient’s eyes.
+•   Irrigate the wound with saline.
+•   Preserve tissue, especially skin, but remove all foreign material and all obviously devitalized tissue.
+•   Close with simple monofilament non-absorbable sutures of 4/0 or 5/0. Reinforce the skin closure with
+    skin tapes. To avoid skin marking, remove sutures at 3 to 5 days.
+•   If the wound is contaminated, give prophylactic antibiotics to prevent cellulitis.
+•   Large facial wounds or wounds associated with tissue loss require referral for specialized care after
+    primary management.
+•   Arrest obvious bleeding, clean wounds and remove all foreign material.
+•   Tack the wound edges in place with a few monofilament sutures after the wound is packed with a
+    sterile saline dressing.
+
+Lip Lacerations
+
+•   Small lacerations of the buccal mucosa do not require suturing.
+•   Advise the patient to rinse the mouth frequently, particularly after meals.
+•   Local anaesthesia is adequate for lacerations that do require suturing.
+•   For good cosmesis, proper anatomical alignment of the vermillion border is
+    essential. To achieve this alignment, place the first stitch at the border
+    (Figure 5.8). This region may be distorted by the swelling caused by local
+    anaesthetic or blanched by adrenaline, so to assure accuracy, premark the vermillon border with a pen.
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                 Best practice guidelines in disaster situations   12
+•   After the initial suture is inserted, repair the rest of the
+    wound in layers, starting with the mucosa and
+    progressing to the muscles and finally the skin. Use
+    interrupted 4/0 or 3/0 absorbable suture for the inner
+    layers and 4/0 or 5/0 monofilament non-absorbable
+    suture in the skin. (Figures 5.9, 5.10)
+
+Wounds of the Tongue
+
+•   Most wounds of the tongue heal rapidly without
+    suturing.
+•   Lacerations with a raised flap on the lateral border or the dorsum of the tongue need to be sutured
+    (Figure 5.11).
+•   Suture the flap to its bed with 4/0 or 3/0 buried absorbable stitches (Figure 5.12).
+•   Local anaesthesia is sufficient.
+•   Instruct the patient to rinse the mouth regularly
+     until healing is complete.
+
+Ear and Nose Lacerations
+
+•   The three-dimensional curves of the pinna and nares
+    and the presence of cartilage present difficulties when
+    injured.
+•   Wounds are commonly irregular, with cartilage exposed
+    by loss of skin.
+•   Use the folds of the ear or nose as landmarks to help restore anatomical alignment.
+•   Close the wound in layers with fine sutures, using absorbable sutures for the cartilage (Figures 5.13,
+    5.14).
+•   The dressings are important.
+•   Support the pinna on both sides with moist cotton pads and firmly bandage to reduce haematoma
+    formation (Figure 5.15).
+•   Cover exposed cartilage either by wound closure or split thickness skin grafts.
+•   Wounds of the ear and nose may result in deformities or necrosis of the cartilage.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   13
+Nose bleed (epistaxis)
+• Epistaxis often occurs from the plexus of veins in the anterior part of the nasal
+  septum (Figure 5.16).
+• In children it is often due to nose picking; other causes include trauma, a foreign
+  body, Burkitt’s lymphoma and nasopharyngeal carcinoma.
+• Manage epistaxis with the patient in a sitting position.
+• Remove blood clots from the nose and throat to visualize the site of bleeding and
+  confirm the diagnosis.
+• Pinch the nose between your fingers and thumb while applying icepacks to the
+  nose and forehead. Continue to apply pressure. Bleeding will usually stop within
+  10 minutes.
+• If bleeding continues, pack the anterior nares with petroleum impregnated ribbon
+  gauze.
+• If bleeding continues after packing, the posterior nasopharynx may be the source
+  of bleeding. Apply pressure using the balloon of a Foley catheter. Lubricate the
+  catheter, and pass it through the nose until the tip reaches the oropharynx.
+  Withdraw it a short distance to bring the balloon into the nasopharynx. Inflate the
+  balloon with water, enough to exert pressure but not to cause discomfort (5–10
+  ml of water is usually adequate for an adult, but use no more than 5 ml for a
+  child). Gently pull the catheter forward until the balloon is held in the posterior
+  choana (Figure 5.17).Tape the catheter to the forehead or cheek in the same manner as a nasogastric
+  tube. With the catheter in place, pack the anterior nares with petroleum gauze. Deflate the Foley
+  catheter after 48 hours and, if bleeding does not recur, remove it
+
+Ocular Trauma
+
+•   Eye injuries are common and are an important cause of blindness.
+•   Early diagnosis and proper treatment are imperative to prevent blindness.
+•   The first objective in the management of eye injuries is to save sight and to prevent the progression of
+    conditions that could produce further damage.
+
+1. Superficial injuries
+    Superficial lacerations of the conjunctiva or cornea do not require surgical intervention. If a foreign
+    body is not present, copiously irrigate the eyelid and eye with sterile saline, apply tetracycline 1% eye
+    ointment and apply an eye pad with the eyelids closed. Leave the dressing in place for 24 hours, and
+    then re-examine the eye and eyelids. If the injury has resolved or is improving, continue applying
+    antibiotic eye ointment 3 times daily for 3 days.
+
+2. Eyelid lacerations
+•   Carry out wound toilet and minimal debridement, preserving as much tissue as
+    possible. Never shave the brow or invert hair-bearing skin into the wound
+•   If the laceration involves the lid margin, place an intermarginal suture behind
+    the eyelashes to assure precise alignment of the wound (Figure 5.18).
+•   Carry out the repair in layers: the conjunctiva and tarsus with 6/0 absorbable
+    suture, the skin with 6/0 non-absorbable suture and muscle (orbicularis oculi)
+    with 6/0 absorbable suture (Figure 5.19).
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   14
+•   Tie suture knots away from the orbit
+•   Lacerations involving the inferior lacrimal canaliculus require
+    canalicular repair.
+•   Refer the patient for specialized surgical management of the duct but,
+    prior to referral, repair the lid laceration.
+
+3. Blunt Trauma
+• Hyphaema (blood in the anterior chamber) is caused by blunt trauma.
+• Check for raised intraocular pressure. If intraocular pressure is elevated
+   or indicated by a total hyphaema or pain, administer acetazolamide 250
+   mg orally every 6 hours.
+• If a patient has hyphaema, admit to hospital, put on complete bed rest, sedate, and patch both eyes.
+• Examine and dress the eye daily. If the hyphaema is not resolving in 5 days, refer the patient.
+
+4. Lacerations and penetrating trauma
+• Manage perforations of the cornea without iris prolapse and with a deep intact anterior chamber with
+   local atropine (1% drops or ointment) and local antibiotics 1% eye drops).
+• Dress the injured eye with a sterile pad and examine it daily. After 24 hours, if the anterior chamber
+   remains formed, apply atropine 1% and antibiotic eye ointment daily for another week. If the anterior
+   chamber is flat, apply a bandage for 24 hours. If the anterior chamber does not reform, refer the patient.
+• Refer patients with perforation of the cornea complicated with iris incarceration or posterior rupture of
+   the globe. Suspect a posterior rupture of the globe if there is low intraocular pressure and poor vision.
+   Instil atropine 1%, protect the injured eye with a sterile pad and shield and refer the patient to an
+   ophthalmologist.
+
+Tendon Lacerations
+
+•   Perform immediate repair of tendon lacerations by primary suture for flexor tendons in the forearm;
+    extensor tendons of the forearm, wrist, fingers; extensor tendons on the dorsum of the ankle and foot;
+    and the Achilles tendon.
+•   Delay the repair of divided finger flexor tendons within the synovial sheath until the wound is clean
+    and closed and a qualified surgeon is available.
+•   To accomplish the repair, use a general or regional anaesthetic. After debriding the wound, pass a loop
+    suture (3/0 non-absorbable or 3/0 polyglycolic acid) on a straight needle into the tendon through the
+    cut surface close to the edge so that it emerges 0.5 cm beyond. Construct a figure-of-8 suture, finally
+    bringing the needle out again through the cut surface (Figures 5.21, 5.22, 5.23).
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                 Best practice guidelines in disaster situations   15
+•   Pull the two ends of the suture to take up the slack, but do not bunch the
+    tendon. Deal similarly with the other end of the tendon and then tie the
+    corresponding suture ends to each other, closely approximating the cut
+    ends of the tendon and burying the knots deep between them
+     (Figure 5.24). Cut the sutures short.
+•   Hold the repaired tendons in a relaxed position with a splint for 3 weeks.
+
+
+                                              Amputations
+
+•  Limb amputation is a definitive procedure, which requires careful preoperative thought and consultation
+•  Amputations are performed in emergency situations for severe limb trauma and in elective situations for
+   infection or tumors.
+• Amputations in children should, when possible, preserve the growth pl at es
+• Rehabilitation efforts are focused on the
+   substitution of lost function.
+• Perform surgical amputations to:
+   - Remove a limb following irreparable
+       trauma to the extremity
+   - Remove a malignant tumor
+   - Treat severe infections
+   - Treat end stage arterial disease
+• Determine the amputation level by the
+   quality of tissue and by the requirements for prosthetic fitting.
+• The standard levels for lower extremity amputations are shown in Figure18.75. In the upper extremity,
+   preserve as much limb length as possible.
+Evaluation
+   - Evaluate skin, muscle, vascular supply, nerve function and bone integrity.
+   - Wound healing requires normal blood flow. It is possible to substitute for loss of muscle function,
+   but protective skin sensation is necessary at the amputation site.
+   - The mangled but intact extremity following trauma requires careful evaluation, and consultation
+   with a colleague and the patient, before amputation is carried out.
+   - If the vascular supply and the sensation are lost, amputation is indicated.
+   - Severe damage to three of the five major tissues (artery, nerve, skin, muscle and bone) is an
+  indication for early amputation.
+Techniques
+Guillotine amputation
+• Use a guillotine amputation in emergency situations for contaminated wounds or infection as a quick
+   means of removing diseased or damaged tissue.
+
+1. Divide the skin, muscle and bone at or near the same level, without
+   attempting to fashion flaps or close the wound (Figure 18.76).
+2. Tie all bleeding vessels and cut the nerves sharply while under
+   gentle tension, allowing them to retract into the wound. Tack skin
+   flaps loosely with a few stitches to prevent further retraction. Apply a
+   sterile dressing and, i f possible, an elastic stump wrap.
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   16
+3. Debride and lavage the wound every 2–5 days until it is free of dead tissue and infection. At that point,
+   perform a definitive amputation and closure.
+Definitive amputation
+• Perform a definitive amputation as an elective procedure when the extremity is clean and non-infected
+   or following a guillotine amputation.
+• In the upper limb, preserve as much of the limb as possible.
+• The ideal levels for a lower extremity amputation are 12 cm proximal to the knee joint (transfemoral)
+   and 8–14 cm distal to the knee joint (transtibial).
+• When possible, save the knee joint to improve function with a prosthesis.
+• Amputations through the knee are acceptable in children.
+
+1. Cut the skin flaps 5–6 cm and the muscles 2–4 cm, distal to the proposed level of bone section (Figure
+    18.77).
+2. Fashion the skin flaps so that the sum of the lengths of the flaps is one and a half times the diameter of
+    the limb. Local conditions may necessitate unequal or irregular flaps.
+3. Taper the anterior end of the bone and cut the fibula 3 cm proximal to the tibial cut.
+4. Doubly ligate all major vessels (Figure 18.78).
+5. Cut the nerves sharply while under gentle tension and allow them to retract into the wound.
+6. Stitch opposing muscles over the end of the bone and attach the muscle flaps to the bone through the
+    periosteum or a drill hole.
+7. Release the tourniquet and stop all bleeding before closing further.
+8. Suture the skin and fascia loosely in two layers, using interrupted stitches.
+9. If skin closure is a problem, use split thick skin grafts on non-weight bearing portions of the stump.
+10. Do not close the skin under tension.
+11. In most cases, use a drain and plan to remove it in 1–2 days.
+12. Apply a firm bandage and place the remaining limb in a plaster splint.
+13. Make the stump cylindrical with even muscle distribution. A conical or bulbous stump will be painful
+    and difficult to fit to the prosthetic socket.
+
+Foot amputations
+
+• Perform amputations within the foot at the base of the toes or through the metatarsals, depending on the
+  level of viable tissue.
+• Amputations more proximal on the foot (tarsometatarsal joint or midtarsal joint) are acceptable, but may
+  lead to muscle imbalance. They may require splinting and tendon transfers in order to maintain a
+  plantagrade foot for walking.
+
+Upper extremity amputations
+
+•   Save as much of the extremity as possible. Prosthesis will often not be available for upper extremities
+    and any preserved function will be useful.
+•   Split thickness skin grafts work satisfactorily for most stumps. At the wrist level, preserve carpal joints
+    to allow terminal flexion and extension movements.
+•   Saving the radial-ulnar joint allows pronation and supination of the forearm.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   17
+•   Patients with bilateral upper extremity amputations may benefit from a Krukenberg operation. This is
+    an elective procedure that splits the radius and ulna and provides muscle power to each. The resulting
+    forearm has simple grasp and sensation.
+
+Amputations in children
+Children adapt more easily than adults to amputations and prosthetic use. When possible, preserve the
+growth plate and the epiphysis to allow normal growth of the extremity. Trans-articular amputations are well
+tolerated, as is the use of split thickness skin grafts on the weight-bearing surface of the limb.
+
+
+                                              Drains
+
+Drainage of a wound or body cavity is indicated when there is risk of blood or serous fluid collection or
+when there is pus or gross wound contamination.
+• The type of drain used depends on both indication and availability.
+• Drains are classified as open or closed and active or passive:
+       - Closed drains do not allow the entry of atmospheric air and require either suction or
+           differential pressure to function
+       - Open drains allow atmospheric air access to the wound or body cavity
+       - Continuous suction drains with air vents are open but active drains.
+• Drains are not a substitute for good haemostasis or for good surgical technique and should not be left
+   in place too long.
+• They are usually left in place only until the situation which indicated insertion is resolved, there is no
+   longer any fluid drainage or the drain is not functioning.
+• Leaving a non-functioning drain in place unnecessarily exposes the patient to an increased risk of
+   infection.
+
+       Insertion of Chest Drain and Underwater Seal Drainage
+
+Indications for Underwater-Seal Drainage are:
+
+• Pneumothorax
+• Haemothorax
+• Haemopneumothorax
+• Acute empyema.
+Technique
+1. Prepare the skin with antiseptic and infiltrate the skin, muscle and pleura with
+   1% lidocaine at the appropriate intercostal space, usually the fifth or sixth, in the
+   midaxillary line (Figure 16.2). Note the length of needle needed to enter the pleural
+   cavity; this information may be useful later when you are inserting the drain.
+2. Aspirate fluid from the chest cavity to confirm your diagnosis.
+3. Make a small transverse incision just above the rib to avoid damaging the vessels
+   under the lower part of the rib (Figures 16.4, 16.5). In children, it is advisable to
+   keep strictly to the middle of the intercostal space.
+4. Using a pair of large, curved artery forceps, penetrate the pleura and enlarge the
+   opening (Figures 16.6, 16.7). Use the same forceps to grasp the tube at its tip and
+   introduce it into the chest (Figures 16.8, 16.9).
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   18
+5. Close the incision with interrupted skin sutures, using one stitch to anchor the tube.
+   Leave an additional suture untied adjacent to the tube for closing the wound after the tube is removed.
+   Apply a gauze dressing.
+6. Connect the tube to the underwater-seal drainage system and mark the initial level of fluid in the drainage
+   bottle (Figure 16.10)
+
+
+
+
+Aftercare
+
+•   Place a pair of large artery forceps by the bedside for clamping the tube when changing the bottle.
+•   The drainage system is patent i f the fluid level swings freely with changes in the intrapleural pressure.
+    Persistent bubbling over several days suggests a bronchopleural fistula and is an indication for referral.
+•   Change the connecting tube and the bottle at least once every 48 hours, replacing them with sterile
+    equivalents.
+•   Wash and disinfect the used equipment to remove all residues before it is resterilized.
+•   If there is no drainage for 12 hours, despite your “milking” the tube, clamp the tube for a further 6 hours
+    and X-ray the chest. If the lung is satisfactorily expanded, the clamped tube can then be removed.
+•   To remove the tube, first sedate the patient and then remove the dressing. Clean the skin with antiseptic.
+    Hold the edges of the wound together with fingers and thumb over gauze while cutting the skin stitch that
+    is anchoring the tube. Withdraw the tube rapidly as an assistant ties the previously loose stitch.
+
+
+                               Cellulitis and Abscess
+
+•   Failure of a superficial infection to respond to medical management
+    may be due to resistance to the antibiotic or to the presence of an
+    abscess cavity
+•   If an abscess cavity is identified, drain it with a surgical incision
+•   Adequate surgical drainage requires anaesthesia to ensure that all
+    parts of the abscess cavity are exposed.
+
+Cellulites and lymphangiitis
+
+•   Cellulitis is a superficial, spreading infection of the skin and
+    subcutaneous tissue and usually follows lacerations and surgical
+    wounds.
+•   The most common causative organism is penicillin sensitive
+    streptococci.
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   19
+•   Cellulitis is characterized by signs of inflammation (local pain, tenderness, swelling and erythema).
+•   The border between involved and uninvolved skin is usually indistinct and systemic illness
+    characterized by fever, chills, malaise and toxicity is frequently present.
+•   Lymphangiitis is inflammation which tracks along the lymphatics in the subcutaneous tissues.
+•   Treat cellulites and lymphangiitis with antibiotics.
+•   Failure to respond to antibiotics suggests abscess formation, which requires surgical drainage
+
+Abscess
+
+•  Treat abscess cavities with incision and drainage to remove accumulated pus.
+•  Diagnose by the presence of one or more of the following signs: extreme
+   tenderness, local heat and swelling causing tight, shiny skin.
+• Fluctuation is a reliable sign when present, although its absence does not rule out
+   a deep abscess or an abscess in tissues with extensive fibrous components.
+• These tissues include the breast, the perianal area and finger tips.
+• Be suspicious of deep throbbing pain or of pain which interferes with sleep.
+Technique
+1. If in doubt about the diagnosis of abscess, confirm the presence of pus with
+   needle aspiration. Prepare the skin with antiseptic, and give adequate anaesthesia.
+   A local anaesthetic field block infiltrating uninfected tissue surrounding the
+   abscess is very effective. Perform the preliminary aspiration using an 18 gauge or
+   larger needle to confirm the presence of pus (Figure 5.28). Make an incision over
+   the most prominent
+2. part of the abscess or use the needle to guide your incision. Make an adequate incision to provide
+   complete and free drainage of the cavity. An incision which is too small will lead to recurrence.
+3. Introduce the tip of a pair of artery forceps into the abscess cavity and open the jaws (Figure 5.29).
+   Explore the cavity with a finger to break down all septa (Figure 5.30).
+4. Extend the incision if necessary for complete drainage (Figure 5.31), but do not open healthy tissue or
+   tissue planes beyond the abscess wall.
+5. Culture the abscess wall. Give antibiotics for cutaneous cellulitis, fever or if the abscess involves the
+   hand, ear or throat.
+6. Irrigate the abscess cavity with saline and drain
+   or pack open. The objective is to prevent the
+   wound edges from closing, allowing healing to
+   occur from the bottom of the cavity upward. To
+   provide drainage, place a latex drain into the
+   depth of the cavity. Fix the drain to the edge of
+   the wound with a suture and leave in place until
+   the drainage is minimal.
+7. Alternatively, pack the cavity open, place
+   several layers of damp saline or petroleum
+   gauze in the cavity leaving one end outside the
+   wound. Control bleeding by tight packing.
+
+Specific Sites
+Cellulitis of the face
+Cellulitis following a facial wound carries the risk of cavernous-sinus thrombosis. Monitor the patient
+closely during antibiotic treatment for signs of increasing facial oedema. Keep the patient in hospital, if
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   20
+necessary. Explain to the patient not to squeeze or manipulate infected foci on the face, even if small. To
+prevent cavernous-sinus thrombosis, administer heparin by continuous intravenous infusion.
+
+Ocular infection
+•   Panophthalmitis is a complication of a neglected penetrating injury of the eye. When efforts to save
+    the eye have failed and the eye is useless, consider evisceration or enucleation. If possible, refer to an
+    ophthalmologist.
+•   Enucleation of the eye is the surgical removal of the entire globe and requires an ophthalmologist.
+•   Evisceration is the surgical removal of the content of the globe and does not require a specialist. This
+    procedure involves excision of the anterior globe and curetting of its contents. If necessary, consider
+    evisceration for uncontrolled panophthalmitis. The eviscerated globe is packed open and treated as an
+    abscess cavity. After healing, refer the patient for prosthesis.
+
+Ear infection
+•  Middle ear infection presents with chronic drainage of pus from the external meatus. Clean the ear,
+   place a cotton wick and apply a gauze dressing. Continue the administration of antibiotics and give
+   analgesics as needed. Keep the auditory canal dry and change the dressing when necessary.
+• Acute mastoiditis is usually a complication of acute otitis media. The patient complains of fever and
+   pain in the affected ear, with disturbed hearing. There may be a discharge from the ear.
+   Characteristically there is a tender swelling in the mastoid area, which pushes the pinna forward and
+   out. Definitive treatment is exposure of the mastoid air cells by a qualified surgeon. When this is not
+   possible, initial treatment is to relieve immediate pain with an incision and drainage of the abscess
+   down to the periosteum.
+Technique
+1. Using a general or local anaesthetic, make a curved incision over the most fluctuant part of the abscess
+   or, if not obvious, at 1.5 cm behind the pinna. Deepen the incision to the periosteum or until pus is
+   found.
+2. Take a sample for bacteriological examination and establish free drainage. Apply petroleum gauze or a
+   small latex drain and dress the area with gauze.
+3. Continue the administration of antibiotics and analgesics, and change dressings as necessary.
+4. Remove the drain after 24– 48 hours.
+
+Infections of the hand
+•   Staphylococci are the organisms commonly responsible for acute infections
+    of the hand.
+•   An early infection may resolve with antibiotics alone but incision and
+    drainage are usually needed. Antibiotics should be given until sepsis is
+    controlled.
+•   Patients present with a history of throbbing pain, warm, tender swelling, a
+    flexion deformity of the finger and pain on movement.
+•   Confirm the abscess with needle aspiration. Obtain an X-ray of the hand to
+    determine if there is bone involvement and perform a Gram stain on the pus.
+•   Give general or regional anaesthesia and proceed with incision and drainage.
+•   Make an adequate, but not extensive, incision along a skin crease at the site
+    of maximum tenderness and swelling (Figure 5.42).Aspirate or irrigate away all pus. Open up deeper
+    loculi with artery forceps and insert a latex drain. Obtain a culture. Dress the wound loosely with dry
+    gauze, administer antibiotics and elevate the hand.
+
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   21
+•   Marked swelling on the dorsum of the hand is often due to lymphoedema, which does not require
+    drainage.
+•   Infection of the nail bed may necessitate excision of a portion of the nail for effective drainage of pus.
+•   Treat paronychia of the middle finger with an incision over the involved area (Figure 5.43) or excise a
+    portion of the nail (Figure 5.44).
+•   Treat finger tip abscesses with a
+    “hockey stick” incision (Figure 5.45).
+•   Treat acute septic contracture of an
+    involved digit with antibiotics and
+    prompt surgical drainage of the flexor
+    tendon sheath through incisions along
+    the lateral or medial borders of the
+    fingers, preferably the junctional area
+    between the palmar and dorsal skin
+    (Figure 5.46).
+•   Infection of the tendon sheaths of the
+    thumb or little finger may spread to the radial or ulnar bursa, respectively (Figure 5.47), necessitating
+    drainage by short, transverse incisions in the distal palmar crease and/or at the base of the palm.
+
+
+
+
+Infections of fascial palmar spaces result
+from extensions of infections of a web-
+space or a tendon sheath. Drain the affected
+fascial space through skin incisions directly
+over the area of maximum swelling and
+tenderness. Open deeper parts of the
+abscess with forceps. In general, place
+incisions for drainage along creases of the
+palm, along the lateral or medial borders of
+the fingers, or along the ulnar or radial borders of the forearm (Figure 5.48). Splint the hand in position of
+function. Encourage active exercises as soon as possible. Give antibiotics and analgesics and remove the
+drain in 24–48 hours.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   22
+                                      Open Fractures
+
+•   Open fractures, also known as compound fractures, are injuries involving both bone and soft tissue.
+•   The soft tissue injury allows contamination of the fracture site.
+•   All open fractures are contaminated, so primary closure is absolutely contraindicated.
+•   Wound closure predisposes to anaerobic infection and chronic osteomyelitis.
+•   Treat with wound toilet, debridement and fracture immobilization. Prior to debridement, take a swab
+    for bacteriological examination and administer systemic antibiotics.
+•   When debriding a compound fracture, remove free fragments of bone with no obvious blood supply.
+•   Do not strip muscle and periosteum from the fractured bone.
+•   Leave vessels, nerves and tendons that are intact.
+•   Surgical toilet of these wounds is an emergency.
+•   Perform the debridement within 6 hours and do not delay for referral.
+•   Osteomyelitis is a grave complication, which can be avoided with proper and expeditious wound toilet.
+•   Stabilize the fracture after wound debridement; perform definitive fracture treatment at a later time.
+•   Achieve stabilization with a well-padded posterior plaster slab, a complete plaster cast split to prevent
+    compartment syndrome, traction or, i f available, an external fixator.
+
+                                    Upper Extremity Injuries
+Clavicle Fractures
+• Diagnose fractures from the history and by physical examination
+• Treat with a sling and early range of motion
+• Fracture healing takes 4 weeks in children and 6–8 weeks in adults..
+Evaluation
+A physical examination shows tenderness over the mid or distal clavicle, with swelling, visible and palpable
+deformity and, often, crepitus. X-rays confirm diagnosis, but are not essential (Figure 18.1
+Treatment
+Apply a sling as shown in Figure 18.2; a figure-of-8 splint provides some comfort, but is not essential for
+fracture healing.Fractures are rarely positioned anatomically, but will heal satisfactorily with little or no
+functional loss. The patient should continue with the sling until pain free. This will take 4–6 weeks in
+adults and 3–4 weeks in children.
+ Rehabilitation
+Begin elbow extension and hanging arm exercises in the sling within a few days (Figure 18.3)
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   23
+Acromial-Clavicular Joint Separation
+
+ • Separation of the acromial-clavicular joint results from falls on the tip of the shoulder. Cases are
+    classified by the amount of upward displacement of the clavicle (Figure
+    18.4).
+ • Make the diagnosis based on the history and a physical examination
+ • Treat with an arm sling
+ • When comfortable, begin a range of motion and active muscle strengthening
+    in the shoulder.
+Evaluation
+The acromial-clavicular joint is tender to palpation and the end of the
+clavicle is prominent. X-rays are not essential but confirm the diagnosis and
+determine if there is a fracture.
+Treatment
+• Apply an arm sling to support the weight of the arm and to remove the deforming force from the joint.
+   This will not keep the joint in the anatomical position, but the remaining deformity will cause little
+   functional loss.
+• Release the sling daily to allow elbow extension.
+• Begin hanging arm exercises when comfortable and begin active muscle strengthening by the second week.
+
+Shoulder Dislocation
+
+•  Anterior dislocations result from injuries that place the arm in abduction, external rotation and extension.
+•  Posterior dislocations are less common; the arm position is not important as
+   they follow seizures or electric shocks.
+• Make the diagnosis by physical examination
+• Treat with closed manipulation
+• X-rays help to evaluate the reduction and the presence of fractures
+• Recurrent dislocations are common, especially in younger patients.
+Evaluation
+• The contour of the shoulder is changed from the usual curved appearance to
+   one that is much more angular, with a hollow area in place of the humeral
+   head (Figures 18.5 and 18.6)
+• Any shoulder movement is painful; X-rays help to determine i f there is a
+   fracture
+• Perform a careful neurological examination to evaluate for peripheral nerve
+   or brachial plexus injury.
+Treatment
+1. Reduce acute dislocations with the patient supine.
+2. If you have an assistant, he/she should place a sheet or other material under
+   the axilla for counter traction. Pull slowly and steadily on the flexed elbow
+   (Figure 18.7). When the patient relaxes the shoulder muscles, you will feel the
+   humeral head move into the joint socket.
+3. I f you are alone, place your foot in the axilla for counter traction and gently
+   pull on the arm (Figure 18.8).
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   24
+4. After reduction, place the arm in a sling and swath to prevent abduction and external rotation
+   (Figure 18.9).
+5. Begin strengthening exercises at 6 weeks, with an emphasis on internal rotation strength.
+6. Recurrent dislocations are treated similarly. After multiple dislocations, consider surgical shoulder
+   stabilization to prevent further occurrences.
+
+
+
+
+Proximal Humerus Fractures
+•   Fractures of the proximal humerus result from direct or indirect
+    trauma and are classified by the anatomical region injured:
+    - Greater tuberosity (Figure 18.10)
+    - Surgical neck (Figure 18.11)
+    - Anatomic neck
+    - Humeral head.
+• The anatomical location of the fracture defines the treatment
+• X-rays are needed to evaluate the injury
+• Treat displaced fractures with closed manipulation
+• The major complication is shoulder stiffness.
+Evaluation
+Suspect the diagnosis from the history and the physical findings of pain, swelling and loss of motion of
+the shoulder joint. You will need X-rays to confirm the type of fracture
+and to direct treatment.
+Treatment
+• Immobilize non-displaced fractures in a sling and swath. Begin
+    mobilization of the shoulder joint within a few days.
+• Treat displaced fractures and fracture dislocations by closed
+    manipulation under anaesthesia. If the reduction is not acceptable,
+    consider surgical treatment.
+• Begin motion as soon as the patient can tolerate hanging arm
+    exercises (Figure 18.3). Begin active motion against gravity or with
+    weights when the fracture has healed. This is usually at 6–8 weeks.
+
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   25
+Humeral Shaft Fractures
+Humeral shaft fractures result from direct trauma or rotation of the arm
+• Treat by closed means in a coaptation splint
+• The most significant complications are radial nerve injury and non-union.
+• Fractures of the shaft of the humerus are the result of direct trauma or rotational injuries (Figure 18.12).
+• The radial nerve wraps around the posterior midshaft of the bone and is injured in about 15 per cent of
+  shaft fractures (Figure 18.13).
+Evaluation
+Suspect the diagnosis from the clinical findings of tenderness, deformity and instability of the bone. X-
+rays help to confirm diagnosis, but are most useful in judging the position and healing of the fracture
+during treatment. Always check the radial nerve function before and after fracture reduction.
+Treatment
+• Treat with closed reduction and application of a coaptation splint (Figure 18.14).
+• Alignment need not be anatomical; a few degrees of angulation or rotation will not impair function.
+• Radial nerve palsy not associated with an open fracture will resolve in
+    most cases. Splint the wrist in extension and begin passive extension
+    excersice until motor functions returns ( Figure18.15)
+
+Supracondylar Fractures of the Humerus
+•   Fracture patterns include:
+    - Supracondylar
+    - Intercondylar (Figure 18.16)
+    - Fractures of the medial and lateral epicondyles
+    - Isolated fractures of the capitellum and trochlea.
+•  Supracondylar fractures of the humerus are complex, unstable fractures
+   - Treat with closed reduction, followed by a cast or traction
+   - In cases of incomplete reduction in adults, consider open treatment
+   - Injury to nerves and arteries leads to significant complications.
+Evaluation
+• The patient has swelling and tenderness about the elbow and pain with
+   attempted motion. Because deformity is often masked by swelling, confirm the type
+   of fracture by X-ray.
+• Evaluate the neurological and vascular status of the arm.
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   26
+•  Arterial injuries lead to compartment syndrome in the
+   forearm and are associated with:
+       - Extreme pain
+       - Decreased sensation
+       - Pain with passive extension of the digits
+       - Decreased pulse at the wrist
+       - Pallor of the hand
+Treatment
+1. Perform a closed reduction, using longitudinal traction on
+   the extended arm, followed by flexion at the elbow with anterior pressure on the
+   olecranon (Figures 18.17 and 18.18).
+2. Monitor the pulse during the reduction. I f it decreases, extend the elbow until it
+   returns, and apply a posterior splint in this position. Check the reduction by X-
+   ray.
+3. I f a satisfactory reduction cannot be obtained, other options include:
+       - Overhead traction using an olecranon pin
+       - A removable splint with early motion
+       - Open surgical stabilization.
+4. Traction and early motion are useful techniques for severely comminuted
+   fractures and gunshot injuries.
+
+    Olecranon Fractures
+    •   Olecranon fractures result from a fall on the tip of the elbow. The triceps
+        muscle pulls the fracture fragments apart (Figure 18.19).
+    •   Make the diagnosis by clinical examination and confirm by X-ray
+    •   Treat non displaced fractures with a long arm splint at 90 degrees
+        splints displaced fractures with the elbow extended or consider surgical
+        stabilization.
+Evaluation
+Physical examination shows swelling about the olecranon and a palpable gap at
+the fracture site. Examine the ulnar nerve function. X-rays confirm the fracture
+and associated injuries.
+Treatment
+• Treat non-displaced fractures in a splint with the elbow at 90 degrees
+• Treat displaced fractures with the elbow in full extension; displaced fractures
+   may a have better outcome if treated surgically
+• Simple methods include:
+• Suture of the torn triceps tendon (Figure 18.20)
+• Placement of percutaneous pins with rubber bands (Figures 18.21 and 18.22).
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   27
+Fractures of the Radial Head and Neck
+
+•   The radial head is important for pronation and supination of the forearm as well as for flexion and
+    extension motions at the elbow.
+• In fractures , with minimal displacement,
+    treat with closed reduction and a
+    posterior splint and begin motion as soon
+    as comfortable
+• Treat         displaced      intra-articular
+    fractures with early motion and
+    Consider surgical treatment, if
+    available.
+• Fractures are classified by the
+    articular involvement (Figure 18.23).
+Evaluation
+Patients have pain and swelling over the lateral aspect of the elbow. Some motion remains in minimally
+displaced fractures. X-rays confirm the diagnosis.
+Treatment
+1. Treat fractures with minimal displacement in an arm sling and begin motion when comfortable.
+2. To reduce displaced fractures of the radial neck:
+3. Place your thumb over the radial head and apply longitudinal traction with a varus stress to the arm
+4. Gently rotate the forearm while applying medial pressure with your thumb to the radial head
+5. Place the arm in a long arm splint
+6. Begin motion out of the splint at 3 weeks.
+7. Treat comminuted or displaced intra-articular fractures with early motion. If available, alternatives are
+    surgical stabilization or radial head excision.
+
+Elbow Dislocation
+
+Injury occurs with a fall on the outstretched arm. They may be in the posterior or
+posterior lateral direction (Figure 18.24)
+• Treat with immediate closed reduction
+• In children, the medial epicondyle may become entrapped in the joint and may
+    require surgical removal.
+• In children, the medial epicondyle of the humerus is often pulled off as the
+    radius and ulna move posteriorly and laterally. With reduction, this fragment may
+    become lodged in the joint and require surgical removal.
+Evaluation
+Clinically examine the triangular relationship of the ulna and the two epicondyles to ascertain i f it is
+disturbed. The olecranon is felt protruding in a posterior direction and any elbow motion is painful. Assess and
+record ulnar nerve function.
+Treatment
+1. Treat with immediate closed reduction: apply traction to the arm with the elbow in slight flexion and
+    direct pressure on the tip of the olecranon to push it distally and anteriorly.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                    Best practice guidelines in disaster situations   28
+2. When reduced, the elbow will have a free range of motion. After reduction, confirm the position of the
+   epicondyle by X-ray.
+3. Place the arm in a posterior splint at 90 degrees of flexion.
+4. Begin a range of motion at the elbow after 10 days, or as soon as the pain and swelling permit,
+   removing the splint for short periods. Discontinue the splint at 4–6 weeks.
+Forearm Fractures
+Forearm fractures are caused by direct trauma or by a fall on the outstretched arm with an accompanying
+rotatory or twisting force.
+    • Forearm fractures are complex fractures which, in adults, usually require surgical stabilization
+    • They occur as three major types:
+          - Midshaft fractures
+          - Proximal (Monteggia) dislocations
+          - Distal (Galeazzi) fracture dislocations
+    • The forearm is swollen and tender, with limited motion.
+1. Evaluate vascular function by checking pulse, capillary refill and skin temperature of the hand.
+2. Check sensory and motor function of the radial, median and ulnar nerves. X-rays confirm the nature of
+    the fracture.
+3. Monteggia fractures involve the proximal ulna with dislocation of the radial head, usually in the anterior
+   direction (Figure 18.25).
+4. Galeazzi fractures are the reverse of the above, with a fracture of the distal radius and a dislocation of the
+   radial-ulnar joint at the wrist. The radius fracture is usually oblique, causing the bone to shorten (Figure
+   18.26)
+
+
+
+
+Treatment
+   • Midshaft fractures may involve one or both bones; treat single bone fractures with minimal
+      displacement in a long arm cast, with the elbow at 90 degrees and the forearm in neutral rotation
+   • Treat displaced fractures by closed reduction and application of a long arm splint; perform the
+      reduction by applying traction to the fingers and manipulating the forearm with the elbow bent to 90
+      degrees. Apply counter-traction above the bent elbow (Figure 18.27) and Dunlaps Traction
+      (Figure 17.15)
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                     Best practice guidelines in disaster situations   29
+•  Reduce Monteggia fractures as described for displaced fractures (Figure
+   18.28). Apply a long arm cast in supination. It is possible to obtain a
+   satisfactory reduction in children, but adults often require surgical
+   treatment.Treat Galeazzi fractures as described for midshaft fractures.
+   They are unstable and often need surgical stabilization.
+Rehabilitation
+Begin motion out of the cast at 6–8 weeks.
+
+Distal Radius Fractures
+
+Fractures of the distal radius occur with a fall on the outstretched hand. The
+direction of the deformity depends on the position of the wrist at the time of
+impact (Figure 18.28).
+• The distal radius is one of the most common upper extremity fractures
+• Treatment is usually by closed reduction and application of a U-shaped splint
+• The adequacy of the reduction can be judged by specific parameters visible on
+    the post-reduction X-ray
+• The most common complication is malposition and loss of motion.
+• The goal of fracture treatment is to restore the normal anatomy of the
+    following deformities:
+    - Shortening of the radius relative to the ulna (Figure 18.29)
+    - Loss of the volar tilt of the radial articular surface, seen in the lateral X-
+        ray (Figure 18.30)
+    - Disruption of the articular surface.
+1. Make the diagnosis based on the history of a fall on the outstretched hand,
+    swelling and tenderness about the wrist and the presence of deformity
+2. Evaluate tendon function, vascular supply and sensation in the hand
+3. X-rays distinguish radius fractures from carpal injuries and determine i f the
+    fracture is adequately reduced.
+
+Treatment
+1. Anaesthetize for closed reduction, using general anaesthesia (ketamine), an
+   intravenous lidocaine block or a haematoma block. A haematoma block involves
+   placing 5–10 ml of 2% lidocaine directly into the fracture haematoma, using a
+   strict aseptic technique (Figure 18.31).
+2. Reduce the fracture by placing longitudinal traction across the wrist and
+   applying pressure to the distal radial fragment to correct the angular deformity
+   (Figure 18.32). For fractures that are dorsally angulated (Colle’s fractures), this
+   is accomplished by wrist flexion and slight ulnar deviation.
+3. Next, apply a sugar tong splint, moulded to maintain the fracture position.
+   Three point moulding involves application of pressure above and below
+   the fracture and counter pressure on the opposite side of the bone near the
+   fracture apex.
+4. Between 10 days and 2 weeks, change the sugar tong splint to a short arm
+   cast and check the fracture position by X-ray. Healing takes about 6 weeks.
+5. If a satisfactory position of the fracture fragments cannot be obtained or
+   maintained, consider open reduction and internal fixation, placement of
+   an external fixator or closed reduction with percutaneous pin fixation
+WHO/EHT/CPR 2005, formatted 2009                                     Best practice guidelines in disaster situations   30
+Carpal Fractures and Fracture Dislocations
+
+The injury results from a fall on the outstretched hand in hyperextension
+• Diagnosis is difficult and is often overlooked
+• Adequate X-rays are necessary for accurate diagnosis
+• Closed reduction is the initial treatment, but surgical stabilization may be necessary.
+• Injuries to the carpal bones fall into three major categories:
+   - Scaphoid fractures
+   - Trans-scaphoid perilunate fracture/dislocations
+   - Perilunate dislocations.
+• The scaphoid bone (S) bridges the proximal and distal rows of carpal bones, making it especially
+   vulnerable to injury. Most commonly, fractures occur at the waist but may also involve the proximal or
+   distal pole (Figure 18.33).
+• Perilunate dislocations occur with or without an accompanying scaphoid fracture.
+• The lunate (L) stays in a volar position while the remaining carpal bones dislocate
+   posteriorly(Figure18.34).
+
+
+
+
+Evaluation
+•   The wrist appears swollen and painful to move.
+•   Scaphoid fractures are tender in the anatomic snuff box and over the scaphoid tubercle on the volar
+    aspect of the wrist. If a perilunate dislocation has occurred, these findings are diffuse about the wrist. X-
+    rays are necessary to make a definitive diagnosis.
+•   In perilunate dislocations, the lateral X-ray shows an anteriorly displaced lunate bone, with its concavity
+    facing forward (Figure 18.34). The carpus is shortened and the proximal margin of the capitate does not
+    articulate with the concavity of the lunate.
+Treatment
+•   Treat scaphoid fractures with minimal displacement in a thumb spica splint or cast. Healing time is
+    between 6 and 20 weeks.Perilunate dislocations require reduction followed by placement in a long arm
+    thumb spica splint. The reduction is usually unstable over time and most patients will need surgical
+    stabilization.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                    Best practice guidelines in disaster situations   31
+Fracture dislocation of the first carpometacarpal joint (Bennett’s fracture)
+
+This is an oblique fracture of the base of the thumb metacarpal involving the
+first carpometacarpal joint (Figure 18.37).
+1. Reduce the fracture with longitudinal traction to the thumb held in the
+     abducted position.
+2. Apply lateral pressure to the base of the metacarpal to reduce the fracture and
+     the dislocation (Figure 18.38).
+Maintain the reduction with a thumb spica splint.
+
+Metacarpal fractures
+Metacarpal fractures commonly occur at the base, midshaft and neck.
+• Most fractures are stable and can be fractures are stable and can be treated
+   with closed manipulation and plaster immobilization.
+• Rotation is the most important deformity to correct. If it persists,
+   the digits will cross with flexion, impairing general function
+   of the hand.
+• Treat with a short arm cast or splint with the wrist in extension
+   and three point moulding about the fracture.
+• When treating unstable fractures, extend the cast to include the
+   involved digit or tape the digit to an adjacent digit to provide
+   rotational stability.
+• Healing time is 4–6 weeks.
+
+Phalanges
+•   Treat non-displaced, stable fractures by taping the fractured
+    digit to the adjacent uninjured digit (buddy tape, Figure
+    18.39), or with a simple dorsal splint
+Reduce displaced fractures with traction and direct pressure to
+correct deformity. Apply a short arm cast with an attached metal
+splint extending under or over the digit.
+
+Mallet finger
+•   Mallet finger results from a tear of the long extensor tendon at its insertion into the distal phalanx.
+•   It may be associated with an avulsion fracture of the dorsal lip of the distal phalanx(Figure 18.40).
+•   Treat by splinting the distal phalanx in slight hyperextension(Figure18.41).
+•   Maintain continuous extension for 6-8 weeks.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                     Best practice guidelines in disaster situations   32
+                               Lower Extremity Injuries
+
+Pelvic Ring Fractures
+•  Pelvic fractures occur as a result of high-
+   energy trauma and are frequently
+   accompanied by injuries to the genitourinary
+   system and abdominal organs.
+• Internal blood loss caused by fracture of the
+   pelvis and soft organ damage causes
+   hypovolaemic shock
+• Stable fractures are those with a single
+   fracture component (Figure 18.42).
+• Unstable patterns result from fractures at two or more sites, or those associated with disruption of the
+   symphysis pubis or sacroiliac articulation (Figure 18.43).
+• Unstable fractures are associated with significant blood loss and multiple system injury
+• Treat initially with systemic resuscitation and temporary pelvic compression
+• Complications include deep vein thrombosis, sciatic nerve injury and death from bleeding or internal organ
+   damage.
+Evaluation
+• Physical examination findings include:
+   - Flank ecchymosis
+   - Labial or scrotal swelling
+   - Abnormal position of the lower extremities
+   - Pain with pelvic rim compression.
+• I f the fracture is unstable, you will feel differential motion of the pelvic components when gently
+   manipulating them. Place your hands on the iliac wings and gently rock the pelvis. Confirm the diagnosis
+   with an anterior-posterior X-ray of the pelvis. Additional inlet and outlet views help determine the extent
+   of the fractures.
+• Remember to focus on a systematic examination of the whole patient (see page 16–2).
+Treatment
+• Focus the initial management on general resuscitation efforts Manage stable pelvic fractures with bed rest
+   and analgesics.
+• Stable fractures are rarely associated with significant
+   blood loss.
+
+Unstable fractures
+Unstable fractures are associated with visceral damage
+and there is often significant bleeding. As an emergency
+procedure:
+1. Place compression on the iliac wings, using a sheet or
+    sling to close the pelvic space and tamponade active
+    bleeding (Figure 18.44).
+2. Treat with a pelvic sling and/or traction on the leg to
+    reduce the vertical shear component of the fracture
+    (Figure 18.45).
+3. Maintain the traction until the fracture has
+    consolidated. This usually takes 8–12 weeks.
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   33
+Acetabular Fractures
+•  The fracture disrupts the congruence of the femoral head with the acetabulum and causes damage to
+   the articular surface. A small number of fractures will be combined acetabular and pelvic ring injuries.
+• Acetabular fractures result from high-energy pelvic injuries
+• Treatment aims to restore the congruence of the femoral head with the acetabulum by traction or by
+   surgery if available
+• Complications include deep venous thrombosis, sciatic nerve injury and late degenerative arthritis of
+   the hip.
+Evaluation
+History and physical findings are similar to those in pelvic ring fractures.
+• Evaluate and treat hypovolaemic shock and visceral organ damage as an emergency (see page 13–8).
+• Evaluate sciatic nerve function and look for an associated femoral shaft fracture.
+• Obtain an initial anterior-posterior pelvic X-ray. I f a fracture is evident, oblique views show the articular
+   surfaces more clearly. X-ray the femoral shaft.
+Treatment
+1. Minimally displaced fractures
+Treat minimally displaced fractures with bed rest and gradual mobilization. When
+comfortable, begin partial weight bearing until fracture healing has occurred. This
+usually takes about 12 weeks.
+2 . Displaced and unstable fractures
+•   Treat displaced and unstable fractures with traction to maintain the congruence
+    of the femoral head with the weight-bearing portion of the acetabulum. If a
+    satisfactory position cannot be maintained, or if there are bone chips within the
+    hip joint, surgical stabilization is indicated.
+•   Do not send the patient to another hospital unless you are certain that this
+    complicated surgery is available there.
+
+Fractures of the Proximal Femur (hip fractures)
+Hip fractures in elderly people with osteoporotic (weak) bone frequently occur following simple falls. In
+younger people, a moderately severe trauma is required to produce a fracture in this region.
+Classify fractures by their anatomic location (Figure 18.46):
+   - Intra-capsular (femoral neck fractures)
+   - Extra-capsular: intertrochanteric
+   - Extra-capsular: subtrochanteric.
+In intra-capsular fractures, the blood supply to the femoral head is disrupted. This may lead to the secondary
+complication of avascular necrosis of the femoral head.
+Evaluation
+Make the diagnosis from a history of a fall, pain about the hip and inability to bear weight on the extremity.
+The physical examination reveals a leg that is shortened and externally rotated. The pain is made worse by
+attempted motion of the hip, especially with rotation. Confirm diagnosis by X-ray.
+Treatment
+Intra-capsular fractures
+Treat with internal fixation or prosthetic replacement of the femoral head. I f this cannot be done:
+• Treat non-displaced or impacted fractures with light skin traction and a gentle range of motion until the
+    fracture has healed; this will be in about 8–12 weeks
+• Treat displaced fractures initially in light traction for a few weeks to control pain, then begin sitting and
+    walking with crutches.
+WHO/EHT/CPR 2005, formatted 2009                                    Best practice guidelines in disaster situations   34
+Extra-capsular fractures
+Treat with Perkin’s traction or surgical fixation. Perkin’s traction will maintain the fracture position while
+permitting the patient to sit up to move the knee and hip joint, preventing pressure sores and pneumonia
+
+PerkinsTraction Russels Traction
+
+
+
+
+90/90 Balance Suspension
+
+
+
+
+Hip Dislocation
+
+
+Dislocations of the hip joint result from high-energy trauma and are associated with injuries of the
+acetabulum, femoral shaft and patella. Posterior dislocations are most common. Make the diagnosis from
+the history and from clinical findings; use X-rays to confirm associated fractures
+• To avoid the complications of vascular necrosis and loss of joint motion, reduce
+    the dislocation as soon as possible
+• Closed reduction is usually successful if carried out promptly.
+Evaluation
+Make the diagnosis from the history of the injury and the physical findings of a flexed,
+adducted, internally rotated hip that is painful to move. The clinical examination is
+sufficient to make the diagnosis, but X-rays are necessary to identify associated
+fractures.
+• Examine the sciatic nerve function by testing foot and ankle strength and sensation.
+Treatment
+ 1. Reduce the dislocation as soon as possible:
+     -With the patient supine, apply traction to the flexed hip while an assistant holds the pelvis down for
+counter traction (Figure 18.47); muscle relaxation is usually necessary
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   35
+     - I f you have no assistant, use an alternative method with the patient prone:
+    - Apply traction downward with the leg flexed over the edge of the table
+    - Gently rotate the hip while applying pressure on the femoral head in the
+    gluteal region (Figure 18.48).
+2. Place the patient in post-reduction skin traction for a few days and then
+ begin non-weight bearing ambulation with crutches. Allow weight bearing after
+12 weeks. I f there is a large posterior rim fracture, treat the patient in traction for
+8-12 weeks while the fracture unites
+
+Femoral Shaft Fractures
+
+Evaluation
+• Make the diagnosis based on a history of major trauma and the clinical findings of swelling, pain, angular
+   or rotational deformity or abnormal motion at the fracture site. Examine the skin and soft tissue on all
+   sides of the limb to check for possible open fractures.
+• Evaluate the neurological and vascular status for injury to the sciatic nerve and the femoral artery.
+   Confirm the diagnosis with X-rays of the entire femur, including the femoral neck.
+• Femoral shaft fractures result from high-energy trauma and are often associated with other significant
+   injuries
+• Debride and lavage open fractures under sterile conditions as soon as possible
+• Treat in traction and monitor the fracture position with or without X-rays
+• Fracture of the femoral neck is the most common associated skeletal injury and is frequently overlooked.
+• Distal femoral fractures occur as supracondylar fractures or extend into the knee joint as intercondylar
+   fractures
+• Treat non-displaced fractures in a cast
+• Treat displaced fractures in traction.
+Treatment
+1. Immediately debride and lavage open fractures in the operating room. Expose the bone ends and clean
+   of all foreign material.
+2. Apply traction to control alignment, length and discomfort:
+       - For children below the age of six years, use Russell’s skin traction.
+       - Older children and adults require skeletal traction to accommodate the weight needed to control
+            the fracture position; balanced suspension and Perkin’s traction work well
+       - In fractures of the upper third of the femur, the proximal fragment will be pulled into flexion and
+            abduction
+       - Adjust the traction to maintain alignment with the proximal fragment
+       - Use 90/90 traction in older children
+        -   Use portable X-rays for monitoring fracture position and healing in traction; i f not available,
+            measure the leg lengths and visually estimate angulation and rotation as a guide to traction
+            adjustments
+        -  Perkin’s traction allows the patient to flex his/her knees and hips to 90 degrees. In this position,
+           the rotation of the limb through the fracture will be maintained in an acceptable position.
+3. Fracture healing in adults takes about 10–12 weeks. By 6–8 weeks, the fracture will show early signs of
+   consolidation and it may be possible to place the patient in a hip spica cast and begin non-weight bearing
+   ambulation. Treat fractures in the middle and distal third of the femur with a brace cast and hinged knee
+   instead of a spica.
+
+WHO/EHT/CPR 2005, formatted 2009                                        Best practice guidelines in disaster situations   36
+4. External fixation is not sufficient to control the fracture position in large muscular patients or in patients
+   with unstable fracture patterns. It is a useful method for temporary stabilization of femoral fractures in
+   multiple trauma patients. Place the frame on the lateral side of the thigh.
+5. I f the fracture position cannot be obtained or maintained, consider internal fixation.
+
+Distal Femoral Fractures
+• Popliteal artery injuries require immediate surgical correction if the limb is to be
+   saved.
+•  Distal femoral fractures occur as supracondylar fractures or extend into the knee
+   joint as intercondylar fractures.
+• Treat non-displaced fractures in a cast
+• Treat displaced fractures in traction.
+• Supracondylar fractures occur just above the knee joint. The distal fragment
+   angulates posteriorly because of the pull of the gastrocnemius muscle at its
+   attachment on the posterior aspect of the distal femur (Figure 18.49).
+• Intra-articular fractures occur as either a single femoral condyle fracture (Figure
+   18.50) or as a supracondylar fracture with extension distally into the joint (Figure
+   18.51).
+Evaluation
+   There is a history of a high-energy injury and swelling and
+   deformity just above the knee. X-rays are necessary to confirm the
+   diagnosis and to evaluate
+   articular surface injury. Carefully check sensation, motor power and
+   the vascular status of the leg and foot
+Treatment
+• Non-displaced fractures
+   Treat non-displaced fractures in a long leg cast without weight
+    bearing.
+• Displaced fractures
+       1. Treat displaced fractures in skeletal traction using a tibial pin.
+           Flexing the knee will help to reduce the angular deformity of
+           the distal femur. This is done with pillows under the knee, balanced suspension or using
+           Perkin’s traction.
+       2. Align the articular surfaces to within a few millimetres using traction, closed manipulation or
+           open surgical reduction.
+       3. Begin quadraceps muscle strengthening in traction when pain permits.
+       4. When the fracture is united (at 4–6 weeks), transfer the patient to a long leg cast or cast brace
+           with knee hinges.
+       5. Begin weight bearing at 3 months when the fracture is solidly healed.
+       6. Popliteal artery injuries require immediate surgical correction if the limb is to be saved.
+
+Patella Injuries
+•   Patella injuries are caused by direct trauma to the anterior knee
+•   Displaced fractures are associated with rupture of the quadriceps tendon complex; they need surgical
+    repair to restore knee extensor function.The fracture will displace if the quadriceps tendon is torn and
+    the quadriceps muscle pulls the fragments apart.
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                    Best practice guidelines in disaster situations   37
+•   Lateral patella dislocations follow a direct force to the medial side of the bone or from a twisting
+    injury in a developmentally unstable patella. To reduce the dislocation, place the knee in extension and
+    push the patella medially.
+Evaluation
+Suspect a fracture from the history of the injury and from swelling and pain
+directly over the anterior knee. If the fracture is displaced, the patient is unable to
+extend the leg and a gap is often palpable between the displaced fragments. A
+rupture of the quadriceps tendon proximal to the patella, or to the patella tendon
+distal to it has similar physical findings. X-rays confirm diagnosis.
+Treatment
+ Non-displaced fractures
+         Treat non-displaced fractures in a splint or cylinder cast for 4–6 weeks.
+         Permit full weight bearing in the cast.
+Displaced fractures
+Treat displaced fractures by surgical repair of the fracture, or by suture of the quadriceps tendon
+mechanism (Figure 18.52). Remove comminuted fragments and, if necessary, remove a portion of the
+patella. Place in a splint or cast as for non-displaced fractures.
+
+Tibial Plateau Fractures
+
+Tibial plateau fractures are intra-articular injuries of the weight-bearing portion of the
+knee joint
+• Treat non-displaced fractures with a splint or cast
+• Treat displaced or unstable fractures with traction or surgical stabilization
+• Evaluate for injury to the popliteal vessels.
+• Tibial plateau fractures result from a vertical or lateral force driving the femoral
+     condyles into the tibial articular surface of the knee.
+• The most unstable fractures involve both plateaux and cross the tibial shaft (Figure 18.53).
+Evaluation
+The knee is swollen, painful and shows deformity at the location of the injury. X-rays determine the
+location of the fracture and indicate the treatment.
+Perform a careful examination of the neurological and vascular functions at the foot and ankle. Injury to
+the popliteal artery requires immediate repair if the leg is to be saved.
+Treatment
+Non-displaced fractures
+Treat non-displaced fractures, and fractures with less than 5 mm of articular surface depression, in a splint
+initially. In 1–2 weeks, begin a range of motion out of the splint. Keep the patient non-weight bearing for
+6 weeks and partial weight bearing with crutches or a stick for an additional 6 weeks.
+Displaced fractures
+Treat displaced or unstable fractures by closed reduction followed by a cast, calcaneal traction or surgical
+reduction and internal fixation.
+
+Tibial Shaft Fractures
+
+•   Healing response and complication rate are related to the extent of soft tissue injury
+•   Open fractures are common and require immediate debridement
+•   Closed reduction and cast application is appropriate for most fractures
+
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   38
+•  External fixation is useful for fractures associated with open wounds or severe comminution and
+   instability
+• Complications include compartment syndrome, nonunion and infection.
+• Fractures in this region are often open because of the proximity of the anterior tibia to the skin surface.
+• The amount of soft tissue (skin, muscle, nerve, and artery)
+   damage influences the rate of healing and the chance of
+   subsequent infection.
+• Fracture patterns include: (Figure 18.54)
+   - Spiral fractures, from low energy injuries (A)
+   - Short oblique fractures (B)
+   - Transverse fractures (C).
+Evaluation
+• Inspect the skin closely for any wounds. Full thickness
+   breaks in the skin indicate an open fracture and you should
+   prepare for debridement and lavage of the fracture.
+• During the initial examination, check the neurological and vascular function to the foot.
+• Signs of a developing compartment syndrome include:
+   - Increasing pain
+   - Coolness and pallor of the foot and toes
+   - Pain with passive extension or flexion of the toes or ankle
+   - Increasing tight feeling in the compartments in the calf.
+• Treat with surgical release of the four leg compartments as soon as possible
+Treatment
+1. Immediately debride open fractures.
+2. Reduce tibial fractures by hanging the leg over the end of the examination table and apply longitudinal
+   traction.
+3. Place the limb in a long leg three way splint with the knee in 10–20 degrees of flexion.
+4. In 2 – 3 weeks, remove the splint and apply a long leg cast.
+5. Recheck the patient about every three weeks. X-rays are useful to check the position of the fracture
+   and the extent of healing.
+6. When the fracture position feels stable, place the patient in a patella tendon bearing cast and begin
+   knee motion and weight bearing. The healing time for uncomplicated tibial fractures is about six
+   months.
+7. Open fractures that require dressing changes or skin grafts and unstable comminuted fractures are best
+   managed using an external fixation frame.
+8. Use either a unilateral or a bilateral frame. When the skin has been closed and the fracture is stable,
+   remove the frame and apply a cast for the remainder of the treatment period.
+
+Ankle Fractures
+
+•   Ankle fractures result from inversion, eversion /external rotation and vertical forces
+•   The anatomic structures involved include the tibia, fibula and talus and three sets of ligaments
+•   Isolated fibula fractures are stable. Most other injuries involve two or more of the above structures and
+    require closed reduction or surgical stabilization. External fixation may be used in vertical load
+    fractures.
+•   Isolated fractures of the distal fibula are caused by an eversion/external rotation force through the
+    ankle. With only one component of the articular ring disrupted, these are stable injuries (Figure 18.55).
+
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   39
+•   A similar injury combined with a fracture of the medial malleolus or tear of the deltoid ligament
+    (Figure 18.56) is not stable and causes subluxation of the ankle joint.
+• Inversion injuries result in medial subluxation of the joint and fractures of both malleoli (Figure 18.57).
+    A vertical load causes the distal tibial articular surface to fracture (Figure 18.58), resulting in a
+    compression injury to the cancellous bone and significant disruption of the articular cartilage of the
+    ankle.
+Evaluation
+• Ankle fractures result from low-energy injuries such as a fall from a low step.
+• Inspection for deformity and palpation of the area of maximum tenderness will enable you to make an
+    accurate diagnosis. X-rays are most useful to evaluate the position of the ankle joint after closed
+    reduction.
+• The reduction is satisfactory if X-rays show the cartilage clear space has a uniform thickness on all
+    three sides of the joint when viewed in the mortise view anterior-posterior view with the ankle in 15
+    degrees of internal rotation) and there is a normal relationship of the distal tibial surface to the talus.
+Treatment
+Treat isolated fibula fractures in a 3-way splint, followed after 7-10 days by a weight bearing short leg
+cast
+Unstable fractures
+• Reduce unstable fractures with gentle longitudinal traction followed by manipulation in the opposite
+    direction to the deformity:
+    - Position eversion/external rotation fractures with the heel in inversion,
+        the foot internally rotated and the ankle at 90 degrees of flexion;
+        maintain this position by holding the big toe to support        the weight
+        of the leg, while an assistant applies the splint
+    - Position inversion type fractures with the heel everted slightly, the
+        foot in neutral and the ankle at 90 degrees of flexion.
+• Vertical load fractures (Figure 18.58), are difficult to treat by closed
+    reduction. If gentle traction and manipulation of the fragments does not
+    result in a satisfactory reduction, consider calcaneal traction or an
+    external fixation frame.
+
+
+
+
+Foot Injuries
+
+1. Talus fractures.
+• Clinical examination suggests this fracture, but X-rays are needed to confirm the diagnosis and to
+    guide treatment The neck of the talus is pushed against the anterior tibia, fracturing the neck
+    (Figure 18.59).
+• Treat with closed reduction and immobilization
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   40
+•     Fracture dislocations may require open reduction
+•     Talar neck fractures result from an axial load which forces the foot into dorsiflexion. Continuation of
+      this force produces a dislocation of the subtalar joint as the body of the talus extrudes posterior
+      medially from the ankle joint.
+Evaluation
+Diagnosis is based on a history of a dorsiflexion injury, with swelling and pain about the ankle and hind
+foot. Obtain ankle and foot X-rays to confirm the location and extent of the fracture.
+Treatment
+• Treat minimally displaced fractures in a splint followed by a short leg nonweight bearing cast for 6– 8
+    weeks.
+• Reduce displaced fractures with gentle longitudinal traction, pulling the heel forward and dorsiflexing
+    the foot. Next, evert the foot and bring it into plantar flexion to align the major fragments. Apply a
+    short leg cast. If the talus is located, apply direct pressure over the extruded fragment during the
+    reduction manoeuvre.
+
+2. Calcaneus fracture
+• Calcaneal fractures occur either through the body of the calcanous and into thet, or as avulsion
+   fractures of the posterior portion of the tuberosity
+• The mechanism of the injury is a vertical load which may also cause vertebral body compression
+   fractures
+• Treat with compression, elevation, splinting and gradual resumption of weight bearing.
+• Calcaneous fractures result from a vertical load force driving the talus downward into the subtalar
+   joint and the body of the calcaneus (Figure 18.60).
+
+
+
+
+•   Avulsion fractures of the calcaneal tuberosity are produced by the contracting Achilles tendon (Figure
+    18.61). These fractures usually do not enter the subtalar joint and have a better prognosis.
+Evaluation
+The physical examination reveals swelling and tenderness about the hind foot. X-rays will confirm
+diagnosis. Ask about low or mid-back pain and palpate the spine to evaluate for a vertebral fracture.
+Treatment
+• Treat calcaneal fractures with a compression dressing, short leg splint and elevation.
+• Keep the patient from bearing weight on the affected limb. Encourage toe and knee motion while the
+    limb is elevated. Begin partial weight bearing 6–8 weeks after the injury and full weight bearing, as
+    tolerated, by 3 months.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   41
+3. Fracture dislocation of the tarsal-metatarsal joint (Lisfranc injuries)
+• The injury results from forced plantar flexion of the forefoot
+• Diagnosis is by X-ray showing fractures of the base of the metatarsal bones
+    with subluxation or dislocation of the tarsal-metatarsal joints.
+ • Treat with closed reduction and immobilization
+ • Pin fixation may be necessary to secure the position
+ • Long-term mid-foot pain is common. The injury causes dislocation of the
+    tarsal-metatarsal joints and fractures of the metatarsals and tarsal bones (Figure
+    18.62).
+Evaluation
+Deformity is often not evident because of the large amount of swelling present.
+On the X-ray, the medial borders of the second and fourth metatarsals should be aligned with the medial
+borders of the second cuneiform and the cuboid respectively.
+Treatment
+1. Perform a closed reduction to return the mid-foot to the anatomic position.
+2. Apply a short leg splint and ask the patient to keep the limb elevated. If reduction cannot be attained or
+    maintained, consider stabilization with pins or screws.
+
+4. Fractures of the metatarsals and toes
+ • Fractures of the metatarsals and toes are common injuries resulting from minor trauma
+ • Treat fractures and dislocations in this area by closed reduction and immobilization.
+ Evaluation
+ • Clinical findings are tenderness and swelling. Deformity is not always evident.X-rays confirm
+     diagnosis.
+ • Overuse fractures (stress fractures) occur in the metatarsal bones. The
+     patient has pain and tenderness but no history of acute trauma.
+Treatment
+1. Treat dislocations and angulated fractures with closed reduction.
+2. Immobilize metatarsal fractures in a firm bottom shoe or a short leg cast.
+3. Treat toe fractures and dislocations by taping the toe to a normal adjacent
+    toe (Figure 18.63).
+4. Treat stress fractures by limiting the amount of time the patient spends on his/her feet. If necessary,
+    use a firm shoe or cast until pain free
+
+                                      Spine Injuries
+
+•   Evaluate the spine based on a history of injury, physical examination, a complete neurological
+    examination and X-rays
+•   Spinal column injuries are stable or unstable, based on bone and ligament damage
+•   Neurological function may be normal, show incomplete injury or complete spinal cord disruption
+•   Base your treatment on the extent of injury.
+      - Fractures are stable if further deformity is unlikely.
+      - They are unstable if a change in the fracture position is expected with mobilization.
+      - Spinal cord injury is complete if there is no nerve function below the level of injury and if
+        improvement or return of function is unlikely.
+      - Incomplete injuries have some nerve function below the injury level and may show improvement
+        with treatment.
+
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   42
+Evaluation
+1. Ask the patient if he/she has neck or back pain or has lost feeling in the arms or legs. Assume that an
+   unconscious patient has a spine injury until he/she wakes up enough to answer these questions or until
+   adequate X rays show the spine to be normal.
+2. Inspect the entire spine by log rolling the patient gently on to his/her side. Look for swelling and
+   bruising. Palpate the spine for areas of tenderness and check for gaps or changes in the alignment of
+   the spinous processes.
+3. Perform a careful and complete neurological examination as outlined in Table 18.1 and record your
+   findings. If there is a neurological deficit, determine the level from a motor and sensory examination.
+   The injury is complete if there is no neurological function below that spinal cord level.
+4. In incomplete injuries, the sacral nerve roots will often function.
+5. During the period of spinal shock (usually the first 48 hours after injury) there may be no spinal cord
+   function. As shock wears off, some neurological recovery may occur with incomplete injuries. The
+   ultimate prognosis cannot be accurately determined during the first several days.
+
+Neurological examination in the spinal injury patient
+• Sensation
+   - Test sensation to pinprick in the extremities and trunk
+   - Test perianal sensation to evaluate the sacral roots
+• Motor function
+   - Evaluate motion and strength of the major muscle groups
+   - Determine if rectal sphincter tone is normal
+• Reflexes
+   - Deep tendon reflexes in the upper and lower extremities
+   - Bulbocavernosus reflex: squeeze the glans penis – the bulbocavernosus muscle contracts in a
+      positive test
+   - Anal wink: scratch the skin next to the anus – the anus contracts in a positive test
+   - Babinsky reflex: stroke the bottom of the foot – the toes flex normally and extend with an upper
+      motor nerve injury
+
+X-ray examination
+
+X-ray the entire spine in patients not mentally responsive enough to cooperate with the clinical
+examination.
+• In patients who are awake:
+    - X-ray the symptomatic areas of the cervical, thoracic and lumbar spine
+    - X-ray the cervical spine in all patients involved in high-energy multiple trauma.
+• Evaluate the cervical spine:
+    - With lateral and AP films
+    - Make sure to include all seven cervical vertebrae
+    - Obtain an open mouth odontoid view.
+• Take AP and lateral views of the thoracic and lumbar spine.
+The most common areas of injury are C2, C5–6 and T12–L1. In patients
+with pain but normal X-rays, take flexion and extension lateral X-rays of
+the cervical spine.
+
+X-ray interpretation
+
+The bony spine is anatomically divided into three sections or columns (Figure18.64).
+Injuries are unstable if there is:
+WHO/EHT/CPR 2005, formatted 2009                                 Best practice guidelines in disaster situations   43
+   - Injury to two or more columns
+   - Rotational mal-alignment
+   - Subluxation or dislocation of one vertebra on another
+   - Fracture of the odontoid
+   - Up to 50% vertebral body compression in the thoracolumbar spine
+   - Increased width between the pedicles on the AP view.
+Treatment
+Cervical spine
+• C1: The first cervical vertebra has ample room for the spinal cord and
+   neurological injury is unusual:
+   - Initially, place patients in skull traction to maintain the fracture
+       position and to control discomfort
+   - When stable, change to a Minerva cast or a rigid cervical collar
+   - Healing takes about 3 months
+• C2: Odontoid fractures at the junction of the vertebral body are unstable
+   (Figure 18.65):
+   - To reduce the fracture, place the patient in skull traction with slight
+       hyperextension of the head
+   - At 4–6 weeks, change to a Minerva cast or a halo vest
+• C2: Vertebral body:
+   - Reduce the fracture by placing the neck in the neutral position and
+       apply a Minerva cast or rigid collar
+   - Avoid traction because it will distract this fracture
+• C3–7: Treat fractures, dislocations and fracture-dislocations (Figure 18.66)
+   in skull traction followed, after 4–6 weeks, by a Minerva cast or halo vest.
+   Healing time is 3–4 months, usually with a spontaneous fusion.
+
+Facet dislocations or subluxations
+Gradually increase the traction weight (5 kg/hour up to 20 kg) while
+monitoring neurological signs and taking frequent lateral X-rays. When the facet joints are unlocked,
+attempt to reduce the dislocation by gently rotating and extending the neck. If this is unsuccessful, allow it
+to remain dislocated and treat as above.
+
+Neurological damage
+Spinal cord injury above C5 causes paralysis of the respiratory muscles and patients usually die before
+reaching a medical care facility. At or below this level, treat similarly to patients without neurological
+deficit. However, begin care of the skin, bowel and bladder immediately.
+
+Thoracolumbar Spine
+1. Place the patient at bed rest on a soft pad and move only by log roll. A paralytic
+   ileus is common following lumbar fractures. Give the patient nothing by mouth
+   until bowel sounds return. Regularly monitor and record the neurological status.
+2. If there is no neurological damage, begin ambulation, when comfortable, using a
+   brace or body cast (Figure 18.67). A sitting lateral X-ray will confirm fracture
+   stability. The patient should not bend or lift for at least 3 months. For incomplete
+   neurological injury, treat as above but monitor the neurological status closely until
+   recovery has stabilized. With complete neurological disruption, begin the
+   rehabilitation programme immediately to prevent potential complications.
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   44
+                                      Fractures in Children
+
+1. Open growth plates and the thick periosteal membrane make fractures in children
+    different from those in adults
+2. Treat fractures by closed reduction; certain displaced epiphyseal fractures may need
+    surgical reduction
+3. Future growth will remodel some residual deformity in length, angulation and
+    displacement but not in rotation.
+4. Growth in length occurs through the cartilaginous epiphyseal plates and growth in width
+    through the periosteal membrane. The latter is a thick fibrous layer that covers the bone
+    and provides stability to torus (Figure 18.68) and greenstick fractures (Figure 18.69).
+5. Epiphyseal plate fractures are classified by location and by the path of the fracture line
+    across the epiphyseal plate (Figure 18.70).
+6. If the growth potential of the epiphyseal cartilage is damaged, the growth pattern will be
+    altered and deformity of the extremity is likely.
+Evaluation
+Identify the fracture by findings of tenderness, swelling, bruising and deformity. Obtain X-rays,
+if available. If you cannot identify a fracture, consider the possibility of infection.
+Joint instability in children occurs because of torn ligaments and epiphyseal fractures. Take an
+X-ray while applying stress across the joint to show the location of the instability.
+
+
+
+
+Treatment
+• Treat epiphyseal fractures with gentle closed reduction. Make one or two attempts only, as repeated
+   manipulation will further injure growth potential.
+• Minor residual deformity in fractures of type I and II will remodel. Type III and IV fractures involve
+   the joint cartilage as well as the epiphyseal plate. If displacement of more than a few millimetres
+   remains in these structures after closed reduction, consider open reduction.
+• In general, fractures not involving the growth plate will heal in an acceptable position as long as the
+   general alignment of the limb is maintained. The remodelling potential declines with age, and younger
+   children are able to correct greater deformities.
+Expected correction following long bone fractures in children
+• Length 1.5 – 2 cm
+• Angulation 30 degrees
+• Rotation NoneDisplacement 100 %
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                 Best practice guidelines in disaster situations   45
+Specific Fracture Types
+
+Supracondylar Fractures Of The Humerus
+
+1. Age Most common from 18 months to 5 years
+2. Mechanism Fall on extended arm
+3. Evaluation Pain, swelling and deformity just above elbow
+4. Examine the vascular and nerve function in the forearm and hand
+5. X-ray Helpful but not essential. Do not delay treatment if X-ray is
+   unavailable (Figure 18.71).
+Treatment
+1. With the patient lying face up, apply traction on the forearm with the
+   elbow near full extension.
+2. While maintaining traction, grasp the distal fragment of the humerus
+   and correct medial and lateral displacement and rotation (Figure
+   18.72).
+3. Next, flex the elbow slowly while pushing the distal fragment
+   forward into the reduced position (Figure 18.73).
+4. Check the radial pulse before and after the reduction. If it diminishes
+   as the elbow is flexed, extend the forearm until the pulse returns.
+   Immobilize the arm in a posterior splint at 120 degrees of flexion or in the
+   position where the pulse remains intact.
+5. If the circulation is in question, or if it is not possible to obtain a
+   satisfactory reduction, treat the patient in olecranon or Dunlap’s
+   traction .Triplane fractures of the distal tibia (Figure 18.74)
+
+Age 12–15 years, at the time of closure of the distal tibial epiphysis
+1. Mechanism Abduction, external rotation force to the ankle joint
+2. Evaluation Painful, swollen ankle with or without other deformity
+3. X-ray is needed to make the diagnosis but, if unavailable, begin treatment
+Treatment
+1. Apply longitudinal traction to the foot by holding the mid-foot and heel.
+2. Invert the heel, bring the ankle from plantar flexion to neutral (90 degrees) and
+   internally rotate the foot.
+3. Maintain the reduction by grasping the great toe, allowing the foot to hang,
+   while a three-way splint is applied.
+4. Mould the plaster as it dries.
+5. Obtain post-reduction X-rays when possible.
+
+                          Compartment Syndrome
+
+•    Compartment syndrome is caused by swelling within closed fascias spaces; as the intra-compartmental pressure
+     increases, blood supply to the muscles is lost
+•    Treat with immediate surgical release of the skin and fascia over the involved compartment.
+•    Increased compartment pressure is commonly caused by:
+         - Tight casts or dressings
+         - External limb compression
+WHO/EHT/CPR 2005, formatted 2009                                     Best practice guidelines in disaster situations   46
+      - Burn scar
+      - Fractures
+      - Soft tissue crush injuries
+      - Arterial injury.
+   • The most common areas involved are the anterior and deep posterior compartment of the leg and the
+      volar forearm compartment. Other areas include the thigh, the dorsal forearm, the foot, the dorsal
+      hand and, rarely, the buttocks.
+   • Diagnostic physical findings include:
+      - Pain out of proportion to the injury
+      - Tense muscle compartments to palpation
+      - Pain with passive stretch of the involved muscle
+      - Decreased sensation
+      - Weakness of the involved muscle groups
+      - Pallor and decreased capillary refill (late finding)
+      - Elevated compartment pressure (if measurement is possible).
+Treatment
+   • Split the cast and dressings, if present.
+   • Do not elevate the limb, but observe carefully for improvement.
+   • I f signs and symptoms persist, treat the acute compartment syndrome with immediate surgical
+      decompression.
+   • Even short delays will increase the extent of irreversible muscle necrosis so, if you suspect a
+      compartment syndrome, proceed with the decompression immediately.
+
+
+                             Fat Embolism Syndrome
+   •   Fat embolism syndrome follows major long bone trauma.
+   •   The etiology remains elusive, but seems to involve a showering of bone marrow contents into the
+       bloodstream. These lodge in the lungs, brain and other organs.
+   •   The syndrome becomes clinically evident on the second or third day post injury.
+   •   The lung involvement causes respiratory distress, which is fatal in a small percentage of patients.
+   •   Signs include:
+       - Confusion and anxiety
+       - Increased pulse and respiratory rate
+       - Petechiae located in the axilla, conjunctiva, palate and neck
+       - A chest X-ray showing fluffy infiltrates
+       - Low arterial oxygen content (if test available).
+   •   Administer oxygen and support respiration i f breathing effort becomes great.
+   •   The syndrome is self-limited, lasting usually just a few days.
+   •   Permanent effects are rare, but include impaired vision, kidney abnormalities and mental changes
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                Best practice guidelines in disaster situations   47
+                               Female Genital Injury
+Injuries result from unintentional trauma, sexual assault and, in some regions, female genital mutilation.
+
+Technique
+   1. Conduct a local examination of the genital area. Check for associated injuries.
+   2. Obtain information about the nature of the object causing injury; sharp objects may have
+      penetrated adjacent organs.
+   3. Catheterize the bladder if the patient has urinary retention. Repair all lacerations unless they are
+      very superficial. Anaesthesia may be required to perform a thorough examination and repair of
+      severe injuries.
+   4. Check for tears of the hymen then introduce a speculum and examine all the vaginal walls,
+      fornices and the cervix.
+   5. Thoroughly clean the skin with soap and water, irrigate lacerations with saline and ligate bleeding
+      vessels. Excise only devitalized tissues.
+   6. Repair deep lacerations with absorbable suture without tension and the skin with non-absorbable
+      suture.
+   7. Perform a laparotomy if the peritoneum is penetrated. For vulval haematomas, infiltrate the area
+      with local anaesthesia and evacuate the clots.
+
+Complications
+   • Infection
+   • Haematoma in the parametrium
+   • Rectovaginal fistula
+   • Dyspareunia.
+These can be prevented by proper haemostatis and laceration repair.
+
+Rape
+If there is allegation of rape, make detailed records of your findings and comply fully with local legal
+requirements. Give a dose of penicillin to protect the patient against bacterial infection. Protect the patient
+against pregnancy; use an IUD or emergency contraception with two birth control pills immediately
+and two more in 12 hours. Give an anti-emetic with the birth control pills. Arrange psychological
+counselling.
+
+                               Ketamine Anaesthesia
+Ketamine as the sole method of anaesthesia is widely used without any safeguards of the airway. However,
+it cannot be recommended as a completely safe method in the presence of a full stomach due to the risk of
+regurgitation and aspiration.
+
+Key points
+   •  Ketamine is a full general anaesthetic; do not neglect routine precautions
+   • General anaesthesia with intubation and controlled ventilation is effectively a universal technique
+      although relatively time-consuming for short cases, there is almost no procedure for which it is
+      unsuitable.
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   48
+Ketamine anaesthesia is suitable:
+   • When muscle relaxation is not required, especially in children.
+   • As a “fall-back” technique if your inhalational apparatus, or gas supply for a Boyle’s machine,
+     fails.
+   • If you have to give general anaesthesia without inhalational apparatus, for example at an accident
+     to release a trapped casualty
+
+Unsupplemented ketamine
+   • Give a sedative drug and atropine as premedication.
+   • Insert an indwelling intravenous needle or cannula.
+   • In a struggling child, it is more convenient to delay this until after ketamine has been given
+     intramuscularly
+   • Give ketamine 6–8 mg/kg of body weight intramuscularly or 1–2 mg intravenously (mixed with an
+     appropriate dose of atropine, if not already given in premedication).
+   • After intravenous injection of ketamine, the patient will be ready for surgery in 2–3 minutes, and
+     after intramuscular injection in 3–5 minutes.
+   • Give supplementary doses of ketamine if the patient responds to painful stimuli. Use half the
+     original intravenous dose or a quarter of the original intramuscular dose.
+
+Ketamine
+Induction with ketamine is similar in principle to induction with thiopental and the same precautions apply.
+The average induction dose is 1–2 mg/kg of body weight. The standard formulations are:
+   • 50 mg/ml
+   • 100 mg/ml.
+
+Be sure to check which formulation of ketamine you have.
+
+The patient’s appearance as he or she loses consciousness is different from when barbiturates are used and
+the patient may not appear to be “asleep”. The eyes may remain open, but the patient will no longer
+respond to your voice or command or to painful stimuli. If you try to insert an oropharyngeal airway at
+this stage, the patient will probably spit it out. Muscle tone in the jaw is usually well maintained after
+
+ketamine has been given, as is the cough reflex. A safe airway is not guaranteed since, if regurgitation or
+vomiting of gastric contents occurs, there is still severe danger of aspiration into the lungs.
+
+   •   After induction with ketamine, you may choose to proceed to a conventional inhalational
+       anaesthetic, with or without relaxants and intubation.
+   •   For short procedures, increments of ketamine may be given intravenously or intramuscularly every
+       few minutes to prevent the patient responding to painful stimulation.
+   •   This method of anaesthesia is simple, but produces no muscular relaxation.
+   •   Ketamine is also not a cheap drug.
+   •   If your supplies are limited, try to reserve ketamine for cases where there are few suitable
+       alternatives; for example, for short procedures in children when access to the airway may be
+       difficult.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   49
+                                       Postoperative care
+
+Post operative note and orders
+The patient should be discharged to the ward with comprehensive orders for
+the following:
+    • Vital signs
+    • Pain control Rate and type of intravenous fluid
+    • Urine and gastrointestinal fluid output
+    • Other medications
+    • Laboratory investigations
+
+The patient’s progress should be monitored and should include at least:
+   • A comment on medical and nursing observations
+   • A specific comment on the wound or operation site
+   • Any complications
+   • Any changes made in treatment
+
+Aftercare: Prevention of complications
+   • Encourage early mobilization:
+          o Deep breathing and coughing
+          o Active daily exercise
+          o Joint range of motion
+          o Muscular strengthening
+          o Make walking aids such as canes, crutches and walkers available and provide instructions
+              for their use
+          o Ensure adequate nutrition
+   • Prevent skin breakdown and pressure sores:
+          o Turn the patient frequently
+          o Keep urine and faeces off skin
+   • Provide adequate pain control
+
+Discharge note
+On discharging the patient from the ward, record in the notes:
+    • Diagnosis on admission and discharge
+    • Summary of course in hospital
+    • Instructions about further management, including drugs prescribed.
+Ensure that a copy of this information is given to the patient, together with
+details of any follow-up appointment
+
+Postoperative Management
+
+If the patient is restless, something is wrong.
+Look out for the following in recovery:
+    • Airway obstruction
+    • Hypoxia
+    • Haemorrhage: internal or external
+    • Hypotension and/or hypertension
+    • Postoperative pain
+WHO/EHT/CPR 2005, formatted 2009                                  Best practice guidelines in disaster situations   50
+   •   Shivering, hypothermia
+   •   Vomiting, aspiration
+   •   Falling on the floor
+   •   Residual narcosis
+
+The recovering patient is fit for the ward when:
+   • Awake, opens eyes
+   • Extubated
+   • Blood pressure and pulse are satisfactory
+   • Can lift head on command
+   • Not hypoxic
+   • Breathing quietly and comfortably
+
+   •   Appropriate analgesia has been prescribed and is safely established
+
+Post operative pain relief
+
+   •   Pain is often the patient’s presenting symptom. It can provide useful clinical information and it is
+       your responsibility to use this information to help the patient and alleviate suffering.
+   •   Manage pain wherever you see patients (emergency, operating room and on the ward) and
+       anticipate their needs for pain management after surgery and discharge.
+   •    Do not unnecessarily delay the treatment of pain; for example, do not transport a patient without
+       analgesia simply so that the next practitioner can appreciate how much pain the person is
+       experiencing.
+
+Pain management is our job.
+
+Pain Management and Techniques
+
+Effective analgesia is an essential part of postoperative management. Important injectable drugs for pain
+are the opiate analgesics.
+    • Nonsteroidal anti-inflammatory drugs (NSAIDs), such as diclofenac (1 mg/kg) and ibuprofen can
+        also be given orally and rectally, as can paracetamol (15 mg/kg).
+    • There are three situations where an opiate might be given:
+            o Preoperatively
+            o Intraoperatively
+            o Postoperatively
+    • Opiates given pre- or intraoperatively have important effects in the postoperative period since
+        there may be delayed recovery and respiratory depression, even necessitating mechanical
+        ventilation.
+    • Opiate premedication is rarely indicated, although an injured patient in pain may have been given
+        an opiate before coming to the operating room.
+    • Short acting opiate fentanyl is used intra-operatively to avoid this prolonged effect.
+    • Naloxone antagonizes (reverses) all opiates, but its effect quickly wears off.
+    • Commonly available inexpensive opiates are pethidine and morphine.
+    • Morphine has about ten times the potency and a longer duration of action than pethidine.
+    • Ideal way to give analgesia postoperatively is to:
+            o Give a small intravenous bolus of about a quarter or a third of the maximum dose
+                (e.g. 25 mg pethidine or 2.5 mg morphine for an average adult)
+WHO/EHT/CPR 2005, formatted 2009                                 Best practice guidelines in disaster situations   51
+            o Wait for 5–10 minutes to observe the effect: the desired effect is analgesia, but retained
+                consciousness
+            o Estimate the correct total dose (e.g. 75 mg pethidine or 7.5 mg morphine) and give the
+                balance intramuscularly.
+            o With this method, the patient receives analgesia quickly and the correct dose is given
+    •   If opiate analgesia is needed on the ward, it is most usual to give an intramuscular regimen:
+            o Morphine:
+                - Age 1 year to adult: 0.1–0.2 mg/kg
+                - Age 3 months to 1 year: 0.05–0.1 mg/kg
+            o Pethidine: give 7–10 times the above doses if using pethidine
+
+
+
+Opiate analgesics should be given cautiously if the age is less than 1 year. They are not recommended
+for babies aged less than 3 months unless very close monitoring in a neonatal intensive care unit is
+available.
+
+Anaesthesia & Pain Control in Children
+
+•   Ketamine anaesthesia is widely used for children in rural centers (see pages 14–14 to 14–21), but is
+    also good for pain control.
+•   Children suffer from pain as much as adults, but may show it in different way Make surgical
+    procedures as painless as possible:
+•   Oral paracetamol can be given several hours prior to operation
+•   Local anaesthetics (bupivacaine 0.25%, not to exceed 1 ml/kg) administered in the operating room can
+    decrease incisional pain
+•   Paracetamol (10–15 mg/kg every 4–6 hours) administered by mouth or rectally is a safe and effective
+    method for controlling postoperative pain
+•   For more severe pain, use intravenous narcotics (morphine sulfate 0.05–0.1 mg/kg IV) every 2–4
+    hours
+•   Ibuprofen 10 mg/kg can be administered by mouth every 6–8 hours
+•   Codeine suspension 0.5–1 mg/kg can be administered by mouth every 6 hours, as needed.
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                                 Best practice guidelines in disaster situations   52
+                ESSENTIAL EMERGENCY EQUIPMENT GENERIC LIST
+
+            This checklist of essential emergency equipment for resuscitation describes
+            minimum requirements for essential emergency surgical care at the first referral
+            health facility (small or rural hospital/ health centre)
+
+
+                                                                                        Quantity Date
+                 Capital Outlays                                                                 Checked
+        1        Resuscitator bag valve and mask (adult)
+        2        Resuscitator bag valve and mask (paediatric)
+        3        Oxygen source (cylinder or concentrator)
+        4        Mask and Tubings to connect to oxygen supply
+        5        Light source to ensure visibility (lamp and flash light)
+        6        Stethoscope
+        7        Suction pump (manual or electric)
+        8        Blood pressure measuring equipment
+        9        Thermometer
+       10        Scalpel # 3 handle with #10,11,15 blade;
+       11        Scalpel # 4 handle with # 22 blade
+       12        Scissors straight 12 cm
+       13        Scissors blunt 14 cm
+       14        Oropharyngeal airway (adult size)
+       15        Oropharyngeal airway (paediatric size)
+       16        Forcep Kocher no teeth 12-14 cm
+       17        Forcep, artery
+       18        Kidney dish stainless steel appx. 26x14 cm
+       19        Tourniquet
+       20        Needle holder
+       21        Towel cloth
+       22        Waste disposal container with plastic bag
+       23        Sterilizer
+       24        Nail brush, scrubbing surgeon's
+       25        Vaginal speculum
+       26        Bucket, plastic
+       27        Drum for compresses with lateral clips
+       28        Examination table
+       29        Wash basin
+
+                 Renewable Items
+       30        Suction catheter sizes 16 FG
+       31        Tongue depressor wooden disposable
+       32        Nasogastric tubes 10 to 16 FG
+       33        Batteries for flash light (size C)
+       34        Intravenous fluid infusion set
+       35        Intravenous cannula # 18, 22, 24
+       36        Scalp vein infusion set # 21, 25
+       37        Syringes 2ml
+
+WHO/EHT/CPR 2005, formatted 2009                                   Best practice guidelines in disaster situations   53
+       38      Syringes 10 ml
+       39      Disposable needles # 25, 21, 19
+       40      Sharps disposal container
+       41      Capped bottle, alcohol based solutions
+       42      Sterile gauze dressing
+       43      Bandages sterile
+       44      Adhesive Tape
+       45      Needles, cutting and round bodied
+       46      Suture synthetic absorbable
+       47      Splints for arm,leg
+       48      Urinary catheter Foleys disposable #12, 14, 18 with bag
+       49      Absorbent cotton wool
+       50      Sheeting, plastic PVC clear 90 x 180 cm
+       51      Gloves (sterile) sizes 6 to 8
+       52      Gloves (examination) sizes small, medium, large
+       53       Face masks
+       54      Eye protection
+       55      Apron, utility plastic reusable
+       56      Soap
+       57      Inventory list of equipment and supplies
+       58      Best practice guidelines for emergency care
+
+               Supplementary equipment for use by skilled health professionals
+        1      Laryngoscope handle
+        2      Laryngoscope Macintosh blades (adult)
+        3      Laryngoscope Macintosh blades (paediatric)
+        4      IV infusor bag
+        5      Magills Forceps (adult)
+        6      Magills Forceps (paediatric)
+        7      Stylet for Intubation
+        8      Spare bulbs and batteries for laryngoscope
+        9      Endotrachael tubes cuffed (# 5.5 to 9)
+       10      Endotrachael tubes uncuffed (# 3.0 to 5.0)
+       11      Chest tubes insertion equipment
+       12      Cricothyroidotomy
+
+               This list was compiled from the following WHO resources:
+               WHO training manual:Surgical Care at the District
+               Hospital
+               WHO Emergency Relief Items, Compendium of Basic
+        *      Specifications
+               WHO/UNFPA Essential drugs and other commodities for reproductive health services.
+               WHO Essential Trauma Care Guidelines
+
+
+               * For specification refer to this book
+
+
+
+
+WHO/EHT/CPR 2005, formatted 2009                               Best practice guidelines in disaster situations   54
+                                              Guuiiddee ttoo IInnffrraassttrruuccttuurree aanndd SSuupppplliieess
+                                              G
+                                              Vaarriioouuss L
+                                         aatt V             Leevveellss O Off H Heeaalltthh CCaarree FFaacciilliittiieess
+                                 Emergency and Essential Surgical and A                       Annaaeesstthheessiiaa Procedures
+                                  (Compiled from WHO manual Surgical Care at the District Hospital 2003)
+
+                Level 1                                        Level 2                                                Level 3
+    Small hospital / health centre                  District/provincial hospital                                 Referral hospital
+•    Rural hospital or health centre       •    District or provincial hospital with              •    A referral hospital of 300–1000 or more
+     with a small number of beds and            100–300 beds and adequately equipped                   beds with basic intensive care facilities.
+     a sparsely equipped operating              major and minor operating theatres                     Treatment aims are the same as for
+     room (O.R) for minor procedures                                                                   Level 2, with the addition of:
+                                                                                                  •    Ventilation in O.R and ICU
+•    Provides emergency measures in                                                               •    Prolonged endotracheal intubation
+     the treatment of 90–95% of                                                                   •    Thoracic trauma care
+     trauma and obstetrics cases           •    Short term treatment of 95–99% of the             •    Haemodynamic and inotropic treatment
+     (excluding caesarean section)              major life threatening conditions                 •    Basic ICU patient management and
+                                                                                                       monitoring for up to 1 week : all types
+•    Referral of other patients (for                                                                   of cases, but with limited or no
+     example, obstructed labour,                                                                       provision for:
+     bowel obstruction) for further                                                                    - Multi-organ system failure
+     management at a higher level                                                                      - Haemodialysis
+                                                                                                       - Complex neurological and cardiac
+                                                                                                       surgery
+
+                                                                                                      - Prolonged respiratory failure
+                                                                                                      - Metabolic care or monitoring
+             Procedures                                     Procedures                                            Procedures
+•    Normal delivery                       Same as Level 1 with the following                     Same as Level 2 with the following
+•    Uterine evacuation                    additions:                                             additions:
+•    Circumcision                         •   Caesarean section                                  •   Facial and intracranial surgery
+•    Hydrocele reduction, incision and     •   Laparotomy (usually not for bowel                  •   Bowel surgery
+     drainage                                  obstruction)                                       •   Paediatric and neonatal surgery
+•    Wound suturing                        •   Amputation                                         •   Thoracic surgery
+•    Control of haemorrhage with           •   Hernia repair                                      •   Major eye surgery
+     pressure dressings                    •   Tubal ligation                                     •   Major gynaecological surgery, e.g.
+•    Debridement and dressing of           •   Closed fracture treatment and                          vesico-vaginal repair
+     wounds                                    application of plaster of Paris
+•    Temporary reduction of fractures      •   Eye operations, including cataract
+•    Cleaning or stabilization of open         extraction
+     and closed fractures                  •   Removal of foreign bodies: e.g. in the
+•    Chest drainage (possibly)                 airway
+                                           •   Emergency ventilation and airway
+                                               management for referred patients such
+                                               as those with chest and head injuries
+             Personnel                                      Personnel                                                Personnel
+•    Paramedical staff without formal      •   One [two] trained anaesthetists                    •    Clinical officers and specialists in an
+     anaesthesia training                  •   District medical officers, senior clinical              anaesthesia and surgery
+                                               officers, nurses, midwives
+•    Nurse-midwife                         •   Visiting specialists or resident surgeon
+                                               and/or obstetrician/ gynaecologist
+                Drugs                                            Drugs                                                  Drugs
+•   Ketamine 50 mg/ml injection,           Same as Level 1, but also:                              Same as Level 2 with the following
+    10 ml                                  •  Thiopental 500 mg/1g powder                         additions:
+•   Lidocaine 1% or 2%                     •  Suxamethonium bromide 500 mg                        •   Vecuronium 10 mg powder
+•   Diazepam 5 mg/ml injection,               powder                                              •   Pancuronium 4 mg injection
+    2 ml injection                         •  Atropine 0.5 mg injection Epinephrine               •   Neostigmine 2.5 mg injection
+•   Pethidine 50 mg/ml injection,             (adrenaline) 1 mg injection                         •   Trichloroethylene 500 ml
+    2 ml                                   •  Diazepam 10 mg injection Halothane                       inhalation
+•   [Epinephrine (adrenaline)] 1 mg           250 ml inhalation                                   •   Calcium chloride 10% 10 m injection
+•   [Atropine 0.6 mg/ml]                   •  Ether 500 ml inhalation                             •   Potassium chloride 20% 10 ml injection
+                                           •  Lidocaine 5% heavy spinal solution2 ml                  for infusion
+                                           •  Bupivacaine 0.5% heavy or plain, 4 ml
+
+    WHO/EHT/CPR 2005, formatted 2009                                                      Best practice guidelines in disaster situations        55
+                                          •     Pethidine 50 mg injection
+                                          •     Hydralazine 20 mg injection
+                                          •     Frusemide 20 mg injection
+                                          •     Dextrose 50%, 20 ml injection
+                                          •     Aminophylline 250 mg injection
+                                          •     Ephedrine 30/50 mg ampoules
+      Equipment: capital outlay                     Equipment: capital outlay             Equipment: capital outlay
+•    Adult and paediatric resuscitators   •     Complete anaesthesia, resuscitation and   Same as Level 2 with the following additions
+•    Foot sucker                                airway management system consisting       (one of each per O.R or per ICU bed, except
+•    Oxygen concentrator                        of:                                       where stated):
+                                                o Oxygen source                           •     Pulse oximeter, spare probes, adult and
+                                                o Vaporizer(s)                                  paediatric*
+                                                o Hoses                                   •     ECG (electrocardiogram) monitor*
+                                                o Valves                                  •     Anaesthesia ventilator, electric power
+                                                o Bellows or bag to inflate lungs               source with manual override
+                                                o Face masks (sizes 00–5)                 •     Infusion pumps (2 per bed)
+                                                o Work surface and storage                •     Pressure bag for IVI
+                                                o Paediatric anaesthesia system           •     Electric sucker
+                                                o Adult and paediatric resuscitator       •     Defibrillator (one per O.R / ICU)
+                                                     sets                                 •     [Automatic B.P. machine*]
+                                          •     Pulse oximeter                            •     Capnograph*]
+                                          •     Laryngoscope Macintosh blades 1-3(4)      •     [Oxygen analyzer*]
+                                          •     Oxygen concentrator[s] [cylinder]         •     Thermometer [temperature probe*]
+                                          •     Foot sucker [electric]                    •     Electric warming blanket
+                                          •     IV pressure infusor bag                   •     Electric overhead heater
+                                          •     Adult and paediatric resuscitator sets    •     Infant incubator
+                                          •     Magills forceps (adult and child),        •     Laryngeal mask airways sizes 2, 3, 4
+                                                intubation stylet and/or bougie                 (3 sets per O.R)
+                                                                                          •     intubating bougies, adult and child
+                                                                                                (1 set per O.R)
+                                                                                          * It is preferable to buy combined modalities
+                                                                                          all in one unit
+Equipment: disposable                     Equipment: disposable                            Equipment: disposable
+•  IVI equipment                          •  VI equipment - (minimum fluids normal        Same as Level 2 with the following
+•  Suction catheters size 16 FG              saline, Ringer’s lactate and                 additions:
+•  Examination gloves                        dextrose 5%)                                 •     ECG dots
+                                          •  Suction catheters size 16 FG                 •     Ventilator circuits
+                                          •  Examination gloves                           •     Yankauer suckers
+                                          •  Sterile gloves sizes 6–8                     •     Giving sets for IVI pumps
+                                          •  Nasogastric tubes sizes 10–16 FG             •     Disposables for suction machines
+                                          •  Oral airways sizes 000–4                     •     Disposables for capnography, oxygen
+                                          •  Tracheal tubes sizes 3–8.5                         analyzer, in accordance with
+                                          •  Spinal needles sizes 22 G and25G                   manufacturers’ specifications:
+                                          •  Batteries size C                                   o Sampling lines
+                                                                                                o Water traps
+                                                                                                o Connectors
+                                                                                                o Filters– Fuel cells
+
+
+
+
+                                                           Clinical Procedures Unit
+                                                Department of Essential Health Technologies
+                                                       World Health Organization,
+                                              20 Avenue Appia, 1211, Geneva 27, Switzerland
+                                                             Fax: 41 22 791 4836
+                                                           www.who.int/surgery/imeesc
+
+
+
+
+    WHO/EHT/CPR 2005, formatted 2009                                               Best practice guidelines in disaster situations   56
+
