@@ -1,5 +1,6 @@
 # PROJECT-ACCIO
-Creators: Pitchappan P RM , Tarun Aravind R
+This is a basic python code for building p2p communication platform in python
+The app version is being developed
 
 Problem Statements:	
 The aftermath of each and every natural disaster is always followed by huge rescue teams and organizations swooping in to save the survivors. And they are mostly successful except in cases where they can’t find people close to them or when survivors are scattered that they never had a way to group together making it difficult for them to survive on their own. This scattered population also makes it hard to send Aid packages to where it’s needed. Aid packages are also wasted if dropped at wrong locations which can further damage the situation or become useless.
